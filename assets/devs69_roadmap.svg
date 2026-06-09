@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="DevS69 SDETKit reliability platform roadmap">
+  <rect width="1280" height="360" rx="28" fill="#08111f"/>
+  <text x="56" y="54" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">DevS69 SDETKit — reliability platform roadmap</text>
+  <text x="56" y="86" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Local-first contracts before automation: evidence, diagnosis, safety, memory, verifier, reporting.</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(56 126)">
+      <rect width="184" height="154" rx="18" fill="#0f172a" stroke="#1e40af"/>
+      <text x="20" y="34" fill="#60a5fa" font-size="15" font-weight="800">01</text>
+      <text x="20" y="64" fill="#f8fafc" font-size="19" font-weight="800">FailureVector</text>
+      <text x="20" y="94" fill="#cbd5e1" font-size="13">extract first failure</text>
+      <text x="20" y="116" fill="#cbd5e1" font-size="13">classify risk/scope</text>
+      <text x="20" y="138" fill="#cbd5e1" font-size="13">emit evidence object</text>
+    </g>
+    <g transform="translate(258 126)">
+      <rect width="184" height="154" rx="18" fill="#0f172a" stroke="#2563eb"/>
+      <text x="20" y="34" fill="#60a5fa" font-size="15" font-weight="800">02</text>
+      <text x="20" y="64" fill="#f8fafc" font-size="19" font-weight="800">SafetyGate</text>
+      <text x="20" y="94" fill="#cbd5e1" font-size="13">allowed categories</text>
+      <text x="20" y="116" fill="#cbd5e1" font-size="13">blocked categories</text>
+      <text x="20" y="138" fill="#cbd5e1" font-size="13">review-first unknowns</text>
+    </g>
+    <g transform="translate(460 126)">
+      <rect width="184" height="154" rx="18" fill="#0f172a" stroke="#4f46e5"/>
+      <text x="20" y="34" fill="#818cf8" font-size="15" font-weight="800">03</text>
+      <text x="20" y="64" fill="#f8fafc" font-size="19" font-weight="800">TrajectoryStore</text>
+      <text x="20" y="94" fill="#cbd5e1" font-size="13">action → response</text>
+      <text x="20" y="116" fill="#cbd5e1" font-size="13">diagnosis → proof</text>
+      <text x="20" y="138" fill="#cbd5e1" font-size="13">repo memory</text>
+    </g>
+    <g transform="translate(662 126)">
+      <rect width="184" height="154" rx="18" fill="#0f172a" stroke="#7c3aed"/>
+      <text x="20" y="34" fill="#a78bfa" font-size="15" font-weight="800">04</text>
+      <text x="20" y="64" fill="#f8fafc" font-size="19" font-weight="800">Benchmark</text>
+      <text x="20" y="94" fill="#cbd5e1" font-size="13">no-op must fail</text>
+      <text x="20" y="116" fill="#cbd5e1" font-size="13">oracle must pass</text>
+      <text x="20" y="138" fill="#cbd5e1" font-size="13">unsafe must fail</text>
+    </g>
+    <g transform="translate(864 126)">
+      <rect width="184" height="154" rx="18" fill="#0f172a" stroke="#9333ea"/>
+      <text x="20" y="34" fill="#c084fc" font-size="15" font-weight="800">05</text>
+      <text x="20" y="64" fill="#f8fafc" font-size="19" font-weight="800">Verifier</text>
+      <text x="20" y="94" fill="#cbd5e1" font-size="13">scope checks</text>
+      <text x="20" y="116" fill="#cbd5e1" font-size="13">anti-cheat proof</text>
+      <text x="20" y="138" fill="#cbd5e1" font-size="13">independent result</text>
+    </g>
+    <g transform="translate(1066 126)">
+      <rect width="158" height="154" rx="18" fill="#0f172a" stroke="#38bdf8"/>
+      <text x="18" y="34" fill="#38bdf8" font-size="15" font-weight="800">06</text>
+      <text x="18" y="64" fill="#f8fafc" font-size="19" font-weight="800">Reporter</text>
+      <text x="18" y="94" fill="#cbd5e1" font-size="13">PR quality v2</text>
+      <text x="18" y="116" fill="#cbd5e1" font-size="13">proof summary</text>
+      <text x="18" y="138" fill="#cbd5e1" font-size="13">next action</text>
+    </g>
+  </g>
+  <text x="56" y="322" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Principle: ambitious in diagnosis, conservative in action. Automation comes only after narrow proof and verifier boundaries.</text>
+</svg>
