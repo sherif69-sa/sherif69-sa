@@ -19,12 +19,18 @@ Clone → Reproduce → Inspect → Test → Report
 ```
 
 <p align="center">
-  <img src="./assets/sherif_identity_card.svg" alt="Sherif Atef professional identity card" width="100%" />
+  <img src="./assets/portfolio_operating_system.svg" alt="Sherif portfolio operating system" width="100%" />
 </p>
+
+> Engineering note: the strongest profile signal is not decoration. It is a repeatable way to read a system, identify the contract, reproduce the behavior, and prove the outcome.
 
 ---
 
 ## Professional Signal
+
+<p align="center">
+  <img src="./assets/recruiter_signal_board.svg" alt="Reviewer signal board" width="100%" />
+</p>
 
 <p align="center">
   <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
@@ -37,11 +43,6 @@ Clone → Reproduce → Inspect → Test → Report
 | **Coding Benchmark QA** | hidden edge cases, expected behavior, reference checks, reproducibility risks |
 | **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
 | **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
-
-### Engineering notes
-
-> I treat tests, CI, terminal output, and review comments as evidence.  
-> A good fix is narrow, explained, reproducible, and proven.
 
 ---
 
@@ -67,6 +68,15 @@ The long-term direction is a local-first reliability platform that helps maintai
 | **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
 | **ReplayableBenchmarkHarness** | test no-op, oracle, and unsafe repair scenarios |
 | **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
+
+<details>
+<summary><strong>How I think about DevS69 SDETKit</strong></summary>
+
+The project is not meant to be a vague automation bot. The goal is a reliability system that can read real repo evidence, separate headline noise from the first meaningful failure, keep risky work review-first, and produce reports another engineer can trust.
+
+The first valuable milestone is local and deterministic: file-backed evidence, focused tests, clear JSON/Markdown artifacts, and proof commands that can be reviewed.
+
+</details>
 
 ---
 
@@ -104,6 +114,17 @@ Micro-optimization last
 </p>
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
+
+<details>
+<summary><strong>What I try to prove before calling work complete</strong></summary>
+
+- The expected behavior is clear.
+- The failure or risk can be reproduced or explained.
+- The changed files match the problem scope.
+- Tests or focused proof support the claim.
+- The final report is understandable by another engineer.
+
+</details>
 
 ---
 

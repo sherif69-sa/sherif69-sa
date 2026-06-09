@@ -1,27 +1,16 @@
-<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Working method</title>
-  <desc id="desc">Sherif Atef working method from task contract to evidence.</desc>
-  <rect width="1280" height="300" rx="24" fill="#0f172a"/>
-  <text x="56" y="64" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="850" fill="#f8fafc">Working Method</text>
-  <text x="56" y="98" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">A repeatable loop for SDET work, AI evaluation, benchmark QA, and repository validation.</text>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" transform="translate(66 145)">
-    <g>
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#38bdf8"/><text x="26" y="34" font-size="14" font-weight="850" fill="#38bdf8">01</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Contract</text><text x="26" y="58" font-size="12" fill="#94a3b8">understand task</text>
-    </g>
-    <g transform="translate(190 0)">
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#38bdf8"/><text x="26" y="34" font-size="14" font-weight="850" fill="#38bdf8">02</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Reproduce</text><text x="26" y="58" font-size="12" fill="#94a3b8">make behavior visible</text>
-    </g>
-    <g transform="translate(380 0)">
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#22c55e"/><text x="26" y="34" font-size="14" font-weight="850" fill="#22c55e">03</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Inspect</text><text x="26" y="58" font-size="12" fill="#94a3b8">read code and tests</text>
-    </g>
-    <g transform="translate(570 0)">
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#22c55e"/><text x="26" y="34" font-size="14" font-weight="850" fill="#22c55e">04</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Validate</text><text x="26" y="58" font-size="12" fill="#94a3b8">focused proof</text>
-    </g>
-    <g transform="translate(760 0)">
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#f59e0b"/><text x="26" y="34" font-size="14" font-weight="850" fill="#f59e0b">05</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Compare</text><text x="26" y="58" font-size="12" fill="#94a3b8">expected vs actual</text>
-    </g>
-    <g transform="translate(950 0)">
-      <rect x="0" y="0" width="165" height="80" rx="18" fill="#0b1220" stroke="#f59e0b"/><text x="26" y="34" font-size="14" font-weight="850" fill="#f59e0b">06</text><text x="60" y="34" font-size="15" font-weight="800" fill="#f8fafc">Report</text><text x="26" y="58" font-size="12" fill="#94a3b8">document evidence</text>
-    </g>
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Working method from task contract to evidence</title>
+  <desc id="desc">A working method visual: understand contract, reproduce behavior, inspect implementation, run validation, compare expected versus actual, document evidence.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <text x="56" y="66" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" fill="#f8fafc">Working Method</text>
+  <text x="56" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">The same loop I use for SDET work, AI evaluation, coding benchmark review, and CI evidence.</text>
+  <g transform="translate(70 162)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">01 Contract</text><text x="24" y="66" font-size="13" fill="#cbd5e1">what must be true?</text></g>
+    <g transform="translate(188 0)"><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">02 Reproduce</text><text x="24" y="66" font-size="13" fill="#cbd5e1">observe behavior</text></g>
+    <g transform="translate(376 0)"><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#22c55e" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">03 Inspect</text><text x="24" y="66" font-size="13" fill="#cbd5e1">source and tests</text></g>
+    <g transform="translate(564 0)"><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#22c55e" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">04 Validate</text><text x="24" y="66" font-size="13" fill="#cbd5e1">focused proof</text></g>
+    <g transform="translate(752 0)"><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#f59e0b" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">05 Compare</text><text x="24" y="66" font-size="13" fill="#cbd5e1">expected vs actual</text></g>
+    <g transform="translate(940 0)"><rect width="164" height="92" rx="18" fill="#0b1220" stroke="#f59e0b" stroke-opacity="0.46"/><text x="24" y="38" font-size="16" font-weight="850" fill="#f8fafc">06 Evidence</text><text x="24" y="66" font-size="13" fill="#cbd5e1">report clearly</text></g>
   </g>
 </svg>

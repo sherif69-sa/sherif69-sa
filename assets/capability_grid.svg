@@ -1,47 +1,15 @@
-<svg width="1280" height="520" viewBox="0 0 1280 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="540" viewBox="0 0 1280 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Professional capability grid</title>
-  <desc id="desc">Five professional capability cards for Python SDET, AI evaluation, coding benchmark QA, CI evidence, and repository review.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1220"/>
-    </linearGradient>
-  </defs>
-  <rect width="1280" height="520" rx="24" fill="url(#bg)"/>
-  <text x="56" y="70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="850" fill="#f8fafc">Professional Signal Map</text>
-  <text x="56" y="104" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">The value is in connecting implementation, tests, CI signals, model outputs, and evidence.</text>
+  <desc id="desc">A professional capability grid for Sherif Atef across Python SDET, AI Evaluation, Coding Benchmark QA, CI Evidence, and Repository Review.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+  <rect width="1280" height="540" rx="24" fill="url(#bg)"/>
+  <text x="56" y="68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" fill="#f8fafc">Capability Grid</text>
+  <text x="56" y="102" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">Five practical surfaces. One review-first operating style.</text>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g transform="translate(56 145)">
-      <rect width="356" height="132" rx="20" fill="url(#card)" stroke="#2563eb" stroke-opacity="0.55"/>
-      <text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Python SDET</text>
-      <text x="24" y="78" font-size="15" fill="#cbd5e1">pytest validation, failure reproduction,</text>
-      <text x="24" y="102" font-size="15" fill="#cbd5e1">test review, behavior contracts</text>
-    </g>
-    <g transform="translate(462 145)">
-      <rect width="356" height="132" rx="20" fill="url(#card)" stroke="#38bdf8" stroke-opacity="0.55"/>
-      <text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">AI Evaluation</text>
-      <text x="24" y="78" font-size="15" fill="#cbd5e1">model-output review, rubric alignment,</text>
-      <text x="24" y="102" font-size="15" fill="#cbd5e1">source-grounded QA</text>
-    </g>
-    <g transform="translate(868 145)">
-      <rect width="356" height="132" rx="20" fill="url(#card)" stroke="#f59e0b" stroke-opacity="0.6"/>
-      <text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Coding Benchmark QA</text>
-      <text x="24" y="78" font-size="15" fill="#cbd5e1">hidden cases, expected behavior,</text>
-      <text x="24" y="102" font-size="15" fill="#cbd5e1">reference checks, edge risk</text>
-    </g>
-    <g transform="translate(258 320)">
-      <rect width="356" height="132" rx="20" fill="url(#card)" stroke="#22c55e" stroke-opacity="0.5"/>
-      <text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">CI Evidence</text>
-      <text x="24" y="78" font-size="15" fill="#cbd5e1">GitHub Actions review, command proof,</text>
-      <text x="24" y="102" font-size="15" fill="#cbd5e1">JSON and Markdown artifacts</text>
-    </g>
-    <g transform="translate(666 320)">
-      <rect width="356" height="132" rx="20" fill="url(#card)" stroke="#a78bfa" stroke-opacity="0.55"/>
-      <text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Repository Review</text>
-      <text x="24" y="78" font-size="15" fill="#cbd5e1">clone, inspect, compare states,</text>
-      <text x="24" y="102" font-size="15" fill="#cbd5e1">validate behavior and proof</text>
-    </g>
+    <g transform="translate(56 145)"><rect width="360" height="140" rx="22" fill="url(#card)" stroke="#2563eb" stroke-opacity="0.55"/><text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Python SDET</text><text x="24" y="78" font-size="15" fill="#cbd5e1">pytest validation, failure reproduction,</text><text x="24" y="104" font-size="15" fill="#cbd5e1">test review, behavior contracts</text></g>
+    <g transform="translate(460 145)"><rect width="360" height="140" rx="22" fill="url(#card)" stroke="#38bdf8" stroke-opacity="0.55"/><text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">AI Evaluation</text><text x="24" y="78" font-size="15" fill="#cbd5e1">model-output review, task logic,</text><text x="24" y="104" font-size="15" fill="#cbd5e1">rubric alignment, source-grounded QA</text></g>
+    <g transform="translate(864 145)"><rect width="360" height="140" rx="22" fill="url(#card)" stroke="#f59e0b" stroke-opacity="0.6"/><text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Coding Benchmark QA</text><text x="24" y="78" font-size="15" fill="#cbd5e1">hidden edge cases, reference checks,</text><text x="24" y="104" font-size="15" fill="#cbd5e1">runtime and memory awareness</text></g>
+    <g transform="translate(258 325)"><rect width="360" height="140" rx="22" fill="url(#card)" stroke="#22c55e" stroke-opacity="0.5"/><text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">CI Evidence</text><text x="24" y="78" font-size="15" fill="#cbd5e1">GitHub Actions review, command proof,</text><text x="24" y="104" font-size="15" fill="#cbd5e1">JSON / Markdown artifacts</text></g>
+    <g transform="translate(662 325)"><rect width="360" height="140" rx="22" fill="url(#card)" stroke="#a78bfa" stroke-opacity="0.55"/><text x="24" y="42" font-size="20" font-weight="850" fill="#f8fafc">Repository Review</text><text x="24" y="78" font-size="15" fill="#cbd5e1">clone, inspect, compare states,</text><text x="24" y="104" font-size="15" fill="#cbd5e1">validate behavior and proof</text></g>
   </g>
 </svg>
