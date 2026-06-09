@@ -1,54 +1,62 @@
-<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sherif Atef — Python SDET and AI Evaluation Engineer</title>
-  <desc id="desc">Premium executive GitHub profile banner focused on evidence-first software validation.</desc>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sherif Atef — Python SDET and AI Evaluation Engineer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="380" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#060B14"/>
-      <stop offset="0.48" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#172554"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.54" stop-color="#0D1D32"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="accent" x1="80" y1="72" x2="1200" y2="308" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="92" y1="256" x2="1110" y2="256">
       <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.55" stop-color="#60A5FA"/>
+      <stop offset="0.48" stop-color="#818CF8"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.36"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 76) rotate(131) scale(315 245)">
+      <stop stop-color="#2563EB" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity="0.45"/>
     </filter>
-    <style>
-      .eyebrow{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;font-weight:800;letter-spacing:.15em;fill:#93C5FD;text-transform:uppercase}
-      .title{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:58px;font-weight:850;fill:#F8FAFC;letter-spacing:-.035em}
-      .role{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:25px;font-weight:700;fill:#DDE7F3;letter-spacing:-.01em}
-      .body{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:16px;font-weight:540;fill:#AAB7C8}
-      .chip{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;font-weight:800;fill:#E2E8F0;letter-spacing:.02em}
-      .small{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:12px;font-weight:800;fill:#94A3B8;letter-spacing:.08em;text-transform:uppercase}
-    </style>
   </defs>
-  <rect width="1280" height="380" rx="30" fill="url(#bg)"/>
-  <path d="M0 302C183 250 310 323 478 263C664 197 779 54 1280 86V380H0V302Z" fill="#38BDF8" opacity="0.07"/>
-  <path d="M74 70H1206" stroke="url(#accent)" stroke-width="2.5" opacity="0.95"/>
-  <g filter="url(#shadow)">
-    <rect x="74" y="94" width="1132" height="216" rx="26" fill="#0B1120" opacity="0.87" stroke="#293548"/>
-  </g>
-  <text x="112" y="142" class="eyebrow">Evidence-first software validation</text>
-  <text x="112" y="207" class="title">Sherif Atef</text>
-  <text x="112" y="250" class="role">Python SDET · AI Evaluation Engineer · Coding Benchmark QA</text>
-  <text x="112" y="282" class="body">I reproduce behavior, inspect implementations, test contracts, and report proof that another engineer can review.</text>
 
-  <g transform="translate(778 126)">
-    <rect x="0" y="0" width="382" height="146" rx="22" fill="#020617" opacity="0.78" stroke="#1E293B"/>
-    <text x="28" y="36" class="small">Operating model</text>
-    <g transform="translate(27 58)">
-      <rect x="0" y="0" width="78" height="34" rx="9" fill="#172033" stroke="#334155"/><text x="17" y="22" class="chip">Clone</text>
-      <path d="M86 17H106" stroke="#64748B" stroke-width="2"/>
-      <rect x="114" y="0" width="92" height="34" rx="9" fill="#0F766E" opacity="0.86"/><text x="134" y="22" class="chip">Inspect</text>
-      <path d="M214 17H234" stroke="#64748B" stroke-width="2"/>
-      <rect x="242" y="0" width="92" height="34" rx="9" fill="#2563EB" opacity="0.86"/><text x="269" y="22" class="chip">Prove</text>
-    </g>
-    <g transform="translate(27 108)">
-      <rect x="0" y="0" width="96" height="24" rx="7" fill="#111827" stroke="#334155"/><text x="14" y="17" class="chip">review-first</text>
-      <rect x="112" y="0" width="100" height="24" rx="7" fill="#111827" stroke="#334155"/><text x="127" y="17" class="chip">CI evidence</text>
-      <rect x="228" y="0" width="106" height="24" rx="7" fill="#111827" stroke="#334155"/><text x="244" y="17" class="chip">safe scope</text>
-    </g>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <path d="M66 260H1134" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g opacity="0.16">
+    <path d="M840 38H1120" stroke="#E5E7EB"/>
+    <path d="M840 78H1120" stroke="#E5E7EB"/>
+    <path d="M840 118H1120" stroke="#E5E7EB"/>
+    <path d="M840 158H1120" stroke="#E5E7EB"/>
+    <path d="M840 198H1120" stroke="#E5E7EB"/>
+    <path d="M880 20V238" stroke="#E5E7EB"/>
+    <path d="M940 20V238" stroke="#E5E7EB"/>
+    <path d="M1000 20V238" stroke="#E5E7EB"/>
+    <path d="M1060 20V238" stroke="#E5E7EB"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="62" width="780" height="180" rx="24" fill="#0B1220" fill-opacity="0.76" stroke="#223149"/>
+    <text x="104" y="118" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="-0.8">Sherif Atef</text>
+    <text x="104" y="157" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="650">Python SDET · AI Evaluation · Coding Benchmark QA</text>
+    <text x="104" y="196" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Evidence-first validation for repositories, CI behavior, tests, and AI-generated code.</text>
+  </g>
+
+  <g>
+    <rect x="885" y="80" width="235" height="122" rx="22" fill="#0B1220" fill-opacity="0.72" stroke="#263247"/>
+    <text x="914" y="122" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Operating loop</text>
+    <text x="914" y="152" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Clone → Reproduce</text>
+    <text x="914" y="178" fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Inspect → Test → Report</text>
+  </g>
+
+  <g>
+    <rect x="90" y="272" width="168" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="113" y="292" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="650">pytest validation</text>
+    <rect x="270" y="272" width="166" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="293" y="292" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="650">CI evidence</text>
+    <rect x="448" y="272" width="196" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="471" y="292" fill="#FDE68A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="650">benchmark QA</text>
+    <rect x="656" y="272" width="190" height="28" rx="14" fill="#0F172A" stroke="#334155"/>
+    <text x="679" y="292" fill="#BBF7D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="650">repository review</text>
   </g>
 </svg>

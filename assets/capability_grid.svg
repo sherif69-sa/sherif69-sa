@@ -1,56 +1,44 @@
-<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Professional capability grid</title>
-  <desc id="desc">Capability map for Python SDET, AI evaluation, coding benchmark QA, CI evidence, and repository review.</desc>
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional capability grid">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#07101D"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <style>
-      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:32px;font-weight:850;fill:#F8FAFC;letter-spacing:-.02em}
-      .p{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:17px;font-weight:530;fill:#CBD5E1}
-      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:850;fill:#93C5FD;letter-spacing:.1em;text-transform:uppercase}
-      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:20px;font-weight:850;fill:#F8FAFC}
-      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:550;fill:#94A3B8}
-    </style>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="430">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="70" y1="104" x2="1130" y2="104">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
   </defs>
-  <rect width="1280" height="460" rx="24" fill="url(#bg)"/>
-  <rect x="54" y="44" width="1172" height="372" rx="24" fill="#020617" opacity="0.54" stroke="#1E293B"/>
-  <text x="88" y="94" class="k">Professional signal</text>
-  <text x="88" y="136" class="h">The value is not only writing code. It is proving behavior.</text>
-  <text x="88" y="170" class="p">I connect implementation, tests, expected behavior, CI output, and reviewable evidence.</text>
-  <g transform="translate(88 220)">
-    <g>
-      <rect x="0" y="0" width="214" height="130" rx="18" fill="#0F172A" stroke="#2563EB"/>
-      <rect x="22" y="22" width="40" height="8" rx="4" fill="#38BDF8"/>
-      <text x="22" y="58" class="t">Python SDET</text>
-      <text x="22" y="90" class="s">pytest validation</text>
-      <text x="22" y="112" class="s">failure reproduction</text>
-    </g>
-    <g transform="translate(234 0)">
-      <rect x="0" y="0" width="214" height="130" rx="18" fill="#0F172A" stroke="#7C3AED"/>
-      <rect x="22" y="22" width="40" height="8" rx="4" fill="#A78BFA"/>
-      <text x="22" y="58" class="t">AI Evaluation</text>
-      <text x="22" y="90" class="s">rubric alignment</text>
-      <text x="22" y="112" class="s">source-grounded QA</text>
-    </g>
-    <g transform="translate(468 0)">
-      <rect x="0" y="0" width="214" height="130" rx="18" fill="#0F172A" stroke="#F59E0B"/>
-      <rect x="22" y="22" width="40" height="8" rx="4" fill="#FBBF24"/>
-      <text x="22" y="58" class="t">Benchmark QA</text>
-      <text x="22" y="90" class="s">hidden edge cases</text>
-      <text x="22" y="112" class="s">expected behavior</text>
-    </g>
-    <g transform="translate(702 0)">
-      <rect x="0" y="0" width="214" height="130" rx="18" fill="#0F172A" stroke="#22C55E"/>
-      <rect x="22" y="22" width="40" height="8" rx="4" fill="#4ADE80"/>
-      <text x="22" y="58" class="t">CI Evidence</text>
-      <text x="22" y="90" class="s">command proof</text>
-      <text x="22" y="112" class="s">JSON / Markdown</text>
-    </g>
-    <g transform="translate(936 0)">
-      <rect x="0" y="0" width="214" height="130" rx="18" fill="#0F172A" stroke="#64748B"/>
-      <rect x="22" y="22" width="40" height="8" rx="4" fill="#CBD5E1"/>
-      <text x="22" y="58" class="t">Repo Review</text>
-      <text x="22" y="90" class="s">clone and inspect</text>
-      <text x="22" y="112" class="s">broken/fixed states</text>
-    </g>
+  <rect width="1200" height="430" rx="26" fill="url(#panel)"/>
+  <text x="60" y="56" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="850">Professional signal grid</text>
+  <text x="60" y="86" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">A compact view of the work surfaces I focus on and the evidence I use to judge them.</text>
+  <path d="M60 110H1140" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g>
+    <rect x="60" y="145" width="340" height="110" rx="20" fill="#101827" stroke="#28405F"/>
+    <text x="86" y="183" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Python SDET</text>
+    <text x="86" y="215" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">pytest, failure reproduction, test design,</text>
+    <text x="86" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">fix review, and quality evidence.</text>
+
+    <rect x="430" y="145" width="340" height="110" rx="20" fill="#101827" stroke="#352E72"/>
+    <text x="456" y="183" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">AI Evaluation</text>
+    <text x="456" y="215" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">model output review, task logic, rubric</text>
+    <text x="456" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">alignment, and source-grounded QA.</text>
+
+    <rect x="800" y="145" width="340" height="110" rx="20" fill="#101827" stroke="#4A3216"/>
+    <text x="826" y="183" fill="#FBBF24" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Coding Benchmark QA</text>
+    <text x="826" y="215" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">hidden edge cases, reference behavior,</text>
+    <text x="826" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">correctness, runtime, and memory tradeoffs.</text>
+
+    <rect x="245" y="285" width="340" height="110" rx="20" fill="#101827" stroke="#274C3D"/>
+    <text x="271" y="323" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">CI and Evidence</text>
+    <text x="271" y="355" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">GitHub Actions, command proof, JSON</text>
+    <text x="271" y="378" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">reports, Markdown artifacts, and triage.</text>
+
+    <rect x="615" y="285" width="340" height="110" rx="20" fill="#101827" stroke="#38465F"/>
+    <text x="641" y="323" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Repository Review</text>
+    <text x="641" y="355" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">clone, inspect, compare broken and fixed</text>
+    <text x="641" y="378" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">states, then document the proof.</text>
   </g>
 </svg>
