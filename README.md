@@ -12,13 +12,19 @@
 
 I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
 
-I work best where software behavior needs to be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
+I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
 
-```text
-Clone → Reproduce → Inspect → Test → Report
-```
+<p align="center">
+  <img src="./assets/validation_pipeline.svg" alt="Validation workflow" width="100%" />
+</p>
 
-## Core Work
+---
+
+## Professional Signal
+
+<p align="center">
+  <img src="./assets/capability_cards.svg" alt="Capability map" width="100%" />
+</p>
 
 | Area | Practical focus |
 | --- | --- |
@@ -28,15 +34,19 @@ Clone → Reproduce → Inspect → Test → Report
 | **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
 | **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
 
-## Flagship Project
+---
 
-### DevS69 SDETKit
+## Flagship Project — DevS69 SDETKit
 
 **DevS69 SDETKit** is my main public engineering project.
 
 It is an evidence-first Python SDET toolkit for release confidence, CI workflow governance, failure diagnosis, reproducible quality review, permission-review evidence, structured reporting, and review-first safety boundaries.
 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
+
+<p align="center">
+  <img src="./assets/devs69_roadmap.svg" alt="DevS69 SDETKit roadmap" width="100%" />
+</p>
 
 The project reflects how I approach engineering work:
 
@@ -46,11 +56,17 @@ The project reflects how I approach engineering work:
 - professional repository operations
 - clear reports another engineer can review
 
-## LeetCode Practice
+---
+
+## LeetCode Practice System
 
 LeetCode is part of my long-term programming discipline. I use it to strengthen habits that transfer into real engineering work: choosing the right algorithm, reducing runtime and memory overhead, debugging hidden-test failures, and writing clean code under constraints.
 
 Profile: **https://leetcode.com/u/sherif69/**
+
+<p align="center">
+  <img src="./assets/leetcode_system.svg" alt="LeetCode practice system" width="100%" />
+</p>
 
 | Track | Purpose |
 | --- | --- |
@@ -67,6 +83,8 @@ Practical runtime fifth
 Micro-optimization last
 ```
 
+---
+
 ## Working Method
 
 ```text
@@ -80,6 +98,8 @@ Micro-optimization last
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
 
+---
+
 ## Core Stack
 
 ```text
@@ -87,6 +107,8 @@ Python · pytest · Pandas · Docker · Git · GitHub Actions
 CLI workflows · JSON evidence · Markdown reports · CI-style validation
 AI evaluation workflows · Coding benchmark review · Repository inspection
 ```
+
+---
 
 ## Target Roles
 
@@ -97,6 +119,8 @@ AI evaluation workflows · Coding benchmark review · Repository inspection
 - CI Reliability / Quality Engineering
 - LLM Workflow Evaluation
 - Repository Review and Validation
+
+---
 
 ## Contact
 
