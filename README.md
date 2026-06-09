@@ -14,16 +14,16 @@ I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, 
 
 I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
 
-<p align="center">
-  <img src="./assets/validation_pipeline.svg" alt="Validation workflow" width="100%" />
-</p>
+```text
+Clone → Reproduce → Inspect → Test → Report
+```
 
 ---
 
 ## Professional Signal
 
 <p align="center">
-  <img src="./assets/capability_cards.svg" alt="Capability map" width="100%" />
+  <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
 </p>
 
 | Area | Practical focus |
@@ -45,16 +45,21 @@ It is an evidence-first Python SDET toolkit for release confidence, CI workflow 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_roadmap.svg" alt="DevS69 SDETKit roadmap" width="100%" />
+  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
 </p>
 
-The project reflects how I approach engineering work:
+The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
 
-- small, reviewable changes
-- focused tests before broad claims
-- CI-style evidence
-- professional repository operations
-- clear reports another engineer can review
+Current product direction:
+
+| Layer | Purpose |
+| --- | --- |
+| **Evidence Core** | collect logs, command output, CI metadata, and artifacts |
+| **FailureVectorEngine** | extract first real failure and classify the failure surface |
+| **SafetyGate** | keep unknown or risky changes review-first |
+| **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
+| **ReplayableBenchmarkHarness** | test nop/oracle/unsafe repair scenarios |
+| **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
 
 ---
 
@@ -65,7 +70,7 @@ LeetCode is part of my long-term programming discipline. I use it to strengthen 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_system.svg" alt="LeetCode practice system" width="100%" />
+  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
 </p>
 
 | Track | Purpose |
