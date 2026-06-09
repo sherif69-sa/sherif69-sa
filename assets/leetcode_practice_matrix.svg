@@ -1,40 +1,41 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LeetCode practice matrix">
+<svg width="1280" height="420" viewBox="0 0 1280 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LeetCode practice matrix</title>
+  <desc id="desc">A structured LeetCode practice matrix with Python, Pandas, and TypeScript tracks and engineering outcomes.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
-      <stop stop-color="#111827"/>
-      <stop offset="1" stop-color="#0B1220"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#fb923c"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
-  <text x="60" y="58" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="850">LeetCode practice matrix</text>
-  <text x="60" y="90" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">A programming discipline system for algorithm choice, hidden-test safety, runtime, and memory awareness.</text>
-
-  <g>
-    <rect x="70" y="130" width="320" height="210" rx="24" fill="#151F31" stroke="#334155"/>
-    <text x="100" y="171" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="850">Python / Python3</text>
-    <text x="100" y="204" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Main algorithm and data-structure track.</text>
-    <text x="100" y="236" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">graphs · DP · heaps · binary search</text>
-    <text x="100" y="260" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">streams · caches · design problems</text>
-    <rect x="100" y="288" width="200" height="28" rx="14" fill="#1D4ED8"/>
-    <text x="124" y="308" fill="#EFF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">core engineering habit</text>
-
-    <rect x="440" y="130" width="320" height="210" rx="24" fill="#151F31" stroke="#334155"/>
-    <text x="470" y="171" fill="#FBBF24" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="850">Pandas</text>
-    <text x="470" y="204" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">DataFrame and database-style track.</text>
-    <text x="470" y="236" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">tables · logs · metrics · joins</text>
-    <text x="470" y="260" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">reports · artifacts · structured evidence</text>
-    <rect x="470" y="288" width="190" height="28" rx="14" fill="#D97706"/>
-    <text x="494" y="308" fill="#FFFBEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">data validation habit</text>
-
-    <rect x="810" y="130" width="320" height="210" rx="24" fill="#151F31" stroke="#334155"/>
-    <text x="840" y="171" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="850">TypeScript</text>
-    <text x="840" y="204" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Support track for JS/TS surfaces.</text>
-    <text x="840" y="236" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">typed APIs · closures · classes</text>
-    <text x="840" y="260" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">frontend-style design constraints</text>
-    <rect x="840" y="288" width="185" height="28" rx="14" fill="#7C3AED"/>
-    <text x="864" y="308" fill="#FAF5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">implementation range</text>
+  <rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+  <text x="56" y="66" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="850" fill="#f8fafc">LeetCode Practice Matrix</text>
+  <text x="56" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">Programming discipline mapped to real engineering habits: correctness, hidden tests, runtime, memory, and debugging.</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(66 142)">
+      <rect width="348" height="148" rx="20" fill="#0b1220" stroke="#3776ab"/>
+      <text x="24" y="44" font-size="22" font-weight="850" fill="#f8fafc">Python / Python3</text>
+      <text x="24" y="78" font-size="15" fill="#cbd5e1">Main algorithm and design track</text>
+      <text x="24" y="106" font-size="14" fill="#94a3b8">graphs · DP · heaps · caches · streams</text>
+    </g>
+    <g transform="translate(466 142)">
+      <rect width="348" height="148" rx="20" fill="#0b1220" stroke="#150458"/>
+      <text x="24" y="44" font-size="22" font-weight="850" fill="#f8fafc">Pandas</text>
+      <text x="24" y="78" font-size="15" fill="#cbd5e1">DataFrame and database-style track</text>
+      <text x="24" y="106" font-size="14" fill="#94a3b8">tables · reports · logs · metrics</text>
+    </g>
+    <g transform="translate(866 142)">
+      <rect width="348" height="148" rx="20" fill="#0b1220" stroke="#3178c6"/>
+      <text x="24" y="44" font-size="22" font-weight="850" fill="#f8fafc">TypeScript</text>
+      <text x="24" y="78" font-size="15" fill="#cbd5e1">Support track for typed JS patterns</text>
+      <text x="24" y="106" font-size="14" fill="#94a3b8">APIs · closures · classes · frontend logic</text>
+    </g>
+    <g transform="translate(96 328)">
+      <rect width="1088" height="54" rx="18" fill="#020617" stroke="#f59e0b" stroke-opacity="0.45"/>
+      <rect x="18" y="14" width="158" height="26" rx="13" fill="url(#orange)"/>
+      <text x="38" y="33" font-size="14" font-weight="850" fill="#111827">Practice order</text>
+      <text x="210" y="33" font-size="15" font-weight="700" fill="#f8fafc">Correctness → Hidden-test safety → Optimal algorithm → Memory awareness → Practical runtime → Micro-optimization</text>
+    </g>
   </g>
-
-  <rect x="70" y="364" width="1060" height="34" rx="17" fill="#020617" stroke="#243044"/>
-  <text x="100" y="386" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="650">Practice rule: correctness → hidden-test safety → optimal algorithm → memory awareness → practical runtime → micro-optimization.</text>
 </svg>
