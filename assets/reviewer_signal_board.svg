@@ -1,14 +1,26 @@
-<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reviewer signal board">
-  <rect width="1280" height="470" rx="28" fill="#0B1220"/>
-  <rect x="44" y="40" width="1192" height="390" rx="24" fill="#0F172A" stroke="#273449"/>
-  <text x="78" y="94" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">Reviewer Signal Board</text>
-  <text x="78" y="126" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Fast scan for recruiters, hiring managers, and engineering reviewers.</text>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <g transform="translate(78 168)"><rect width="340" height="86" rx="18" fill="#111C2E" stroke="#38BDF8" stroke-opacity=".45"/><text x="24" y="35" fill="#BAE6FD" font-size="15" font-weight="900">SIGNAL 01</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">Public proof project: DevS69 SDETKit</text></g>
-    <g transform="translate(470 168)"><rect width="340" height="86" rx="18" fill="#111C2E" stroke="#22D3EE" stroke-opacity=".45"/><text x="24" y="35" fill="#CFFAFE" font-size="15" font-weight="900">SIGNAL 02</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">Python SDET + AI evaluation alignment</text></g>
-    <g transform="translate(862 168)"><rect width="330" height="86" rx="18" fill="#111C2E" stroke="#F59E0B" stroke-opacity=".48"/><text x="24" y="35" fill="#FDE68A" font-size="15" font-weight="900">SIGNAL 03</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">LeetCode discipline across 3 tracks</text></g>
-    <g transform="translate(78 286)"><rect width="340" height="86" rx="18" fill="#111C2E" stroke="#22D3EE" stroke-opacity=".45"/><text x="24" y="35" fill="#CFFAFE" font-size="15" font-weight="900">SIGNAL 04</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">CI evidence and reproducible reports</text></g>
-    <g transform="translate(470 286)"><rect width="340" height="86" rx="18" fill="#111C2E" stroke="#F59E0B" stroke-opacity=".48"/><text x="24" y="35" fill="#FDE68A" font-size="15" font-weight="900">SIGNAL 05</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">Review-first safety and proof thinking</text></g>
-    <g transform="translate(862 286)"><rect width="330" height="86" rx="18" fill="#111C2E" stroke="#38BDF8" stroke-opacity=".45"/><text x="24" y="35" fill="#BAE6FD" font-size="15" font-weight="900">SIGNAL 06</text><text x="24" y="62" fill="#F8FAFC" font-size="19" font-weight="850">Repository inspection and validation</text></g>
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reviewer signal board">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1400" height="430" rx="30" fill="url(#bg)"/>
+  <text x="70" y="75" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="36" font-weight="850">Reviewer Signal Board</text>
+  <text x="70" y="112" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="18">The fast-read version of what I bring to engineering teams and AI-evaluation workflows.</text>
+  <g>
+    <rect x="70" y="155" width="290" height="190" rx="24" fill="#111827" stroke="#38BDF8"/>
+    <text x="100" y="205" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">01 · Reproduce</text>
+    <text x="100" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">I start from executable behavior, not assumptions.</text>
+    <text x="100" y="290" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">clone · run · compare · isolate</text>
+    <rect x="390" y="155" width="290" height="190" rx="24" fill="#111827" stroke="#A78BFA"/>
+    <text x="420" y="205" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">02 · Evaluate</text>
+    <text x="420" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">I check task logic, hidden cases, and rubric fit.</text>
+    <text x="420" y="290" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">expected output · edge cases · risk</text>
+    <rect x="710" y="155" width="290" height="190" rx="24" fill="#111827" stroke="#22C55E"/>
+    <text x="740" y="205" fill="#BBF7D0" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">03 · Prove</text>
+    <text x="740" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">I value focused proof over confident claims.</text>
+    <text x="740" y="290" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">pytest · CI · artifacts · reports</text>
+    <rect x="1030" y="155" width="300" height="190" rx="24" fill="#111827" stroke="#F59E0B"/>
+    <text x="1060" y="205" fill="#FDE68A" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">04 · Report</text>
+    <text x="1060" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">I make the next action clear for humans.</text>
+    <text x="1060" y="290" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">root cause · scope · verification</text>
   </g>
+  <rect x="70" y="370" width="1260" height="1" fill="#334155"/>
+  <text x="70" y="400" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="16">Signal: SDET mindset + AI evaluation discipline + coding benchmark practice + evidence-first repository review.</text>
 </svg>
