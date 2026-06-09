@@ -19,7 +19,7 @@ Clone → Reproduce → Inspect → Test → Report
 ```
 
 <p align="center">
-  <img src="./assets/portfolio_system.svg" alt="Portfolio operating system overview" width="100%" />
+  <img src="./assets/sherif_identity_card.svg" alt="Sherif Atef professional identity card" width="100%" />
 </p>
 
 ---
@@ -37,6 +37,11 @@ Clone → Reproduce → Inspect → Test → Report
 | **Coding Benchmark QA** | hidden edge cases, expected behavior, reference checks, reproducibility risks |
 | **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
 | **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
+
+### Engineering notes
+
+> I treat tests, CI, terminal output, and review comments as evidence.  
+> A good fix is narrow, explained, reproducible, and proven.
 
 ---
 
@@ -62,16 +67,6 @@ The long-term direction is a local-first reliability platform that helps maintai
 | **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
 | **ReplayableBenchmarkHarness** | test no-op, oracle, and unsafe repair scenarios |
 | **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
-
-### Why this project matters
-
-DevS69 SDETKit reflects the way I want engineering work to be done:
-
-- small, reviewable changes
-- focused proof before broad claims
-- CI-style evidence instead of vague status
-- professional repository operations
-- reports another engineer can review
 
 ---
 

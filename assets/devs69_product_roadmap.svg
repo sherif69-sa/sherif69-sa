@@ -1,65 +1,60 @@
-<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DevS69 SDETKit product roadmap">
+<svg width="1280" height="460" viewBox="0 0 1280 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DevS69 SDETKit product roadmap</title>
+  <desc id="desc">A clean roadmap from evidence core to failure vector engine, safety gate, trajectory store, benchmark harness, protected verifier, and PR reporter.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#ECFEFF"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/><stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="flow" x1="92" y1="222" x2="1110" y2="222">
-      <stop stop-color="#0EA5E9"/>
-      <stop offset="0.5" stop-color="#6366F1"/>
-      <stop offset="1" stop-color="#10B981"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="0.55" stop-color="#22c55e"/><stop offset="1" stop-color="#f59e0b"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="470" rx="26" fill="url(#bg)"/>
-  <text x="60" y="58" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="850">DevS69 SDETKit product roadmap</text>
-  <text x="60" y="90" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">A local-first reliability platform path: diagnose first, preserve review, prove outcomes, then remember what happened.</text>
-
-  <path d="M95 232H1105" stroke="url(#flow)" stroke-width="5" stroke-linecap="round"/>
-
-  <g>
-    <circle cx="120" cy="232" r="14" fill="#0EA5E9"/>
-    <rect x="60" y="128" width="180" height="76" rx="18" fill="#FFFFFF" stroke="#BAE6FD"/>
-    <text x="84" y="158" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Evidence Core</text>
-    <text x="84" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">logs · commands · CI</text>
-    <rect x="60" y="260" width="180" height="80" rx="18" fill="#FFFFFF" stroke="#BAE6FD"/>
-    <text x="84" y="291" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Artifact proof</text>
-    <text x="84" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">JSON · Markdown · reports</text>
-
-    <circle cx="316" cy="232" r="14" fill="#2563EB"/>
-    <rect x="256" y="128" width="188" height="76" rx="18" fill="#FFFFFF" stroke="#BFDBFE"/>
-    <text x="280" y="158" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">FailureVectorEngine</text>
-    <text x="280" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">first failure · class · scope</text>
-    <rect x="256" y="260" width="188" height="80" rx="18" fill="#FFFFFF" stroke="#BFDBFE"/>
-    <text x="280" y="291" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Operator diagnosis</text>
-    <text x="280" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">what failed and why</text>
-
-    <circle cx="512" cy="232" r="14" fill="#6366F1"/>
-    <rect x="452" y="128" width="188" height="76" rx="18" fill="#FFFFFF" stroke="#C7D2FE"/>
-    <text x="476" y="158" fill="#4338CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">SafetyGate</text>
-    <text x="476" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">safe vs review-first</text>
-    <rect x="452" y="260" width="188" height="80" rx="18" fill="#FFFFFF" stroke="#C7D2FE"/>
-    <text x="476" y="291" fill="#4338CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Boundary policy</text>
-    <text x="476" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">unknown stays human-owned</text>
-
-    <circle cx="708" cy="232" r="14" fill="#7C3AED"/>
-    <rect x="648" y="128" width="206" height="76" rx="18" fill="#FFFFFF" stroke="#DDD6FE"/>
-    <text x="672" y="158" fill="#6D28D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">TrajectoryStore</text>
-    <text x="672" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">action → response → proof</text>
-    <rect x="648" y="260" width="206" height="80" rx="18" fill="#FFFFFF" stroke="#DDD6FE"/>
-    <text x="672" y="291" fill="#6D28D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">RepoMemory</text>
-    <text x="672" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">learn recurring patterns</text>
-
-    <circle cx="904" cy="232" r="14" fill="#059669"/>
-    <rect x="844" y="128" width="212" height="76" rx="18" fill="#FFFFFF" stroke="#BBF7D0"/>
-    <text x="868" y="158" fill="#047857" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">ReplayableHarness</text>
-    <text x="868" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">nop · oracle · unsafe cases</text>
-    <rect x="844" y="260" width="212" height="80" rx="18" fill="#FFFFFF" stroke="#BBF7D0"/>
-    <text x="868" y="291" fill="#047857" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">ProtectedVerifier</text>
-    <text x="868" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">prove without weakening gates</text>
-
-    <circle cx="1080" cy="232" r="14" fill="#0F766E"/>
-    <rect x="988" y="368" width="152" height="58" rx="18" fill="#0F172A"/>
-    <text x="1015" y="394" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">PRReporter</text>
-    <text x="1015" y="416" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">exact next action</text>
+  <rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+  <text x="56" y="66" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="850" fill="#f8fafc">DevS69 SDETKit Roadmap</text>
+  <text x="56" y="100" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">Local-first reliability platform: evidence, diagnosis, safety, proof, memory, and reporting.</text>
+  <rect x="74" y="210" width="1128" height="8" rx="4" fill="url(#line)" opacity="0.9"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(58 142)">
+      <circle cx="68" cy="72" r="18" fill="#38bdf8"/>
+      <rect x="0" y="102" width="160" height="116" rx="18" fill="#0b1220" stroke="#1e3a8a"/>
+      <text x="20" y="136" font-size="15" font-weight="850" fill="#f8fafc">Evidence Core</text>
+      <text x="20" y="166" font-size="13" fill="#cbd5e1">logs, commands,</text>
+      <text x="20" y="188" font-size="13" fill="#cbd5e1">CI metadata</text>
+    </g>
+    <g transform="translate(235 142)">
+      <circle cx="68" cy="72" r="18" fill="#38bdf8"/>
+      <rect x="0" y="102" width="170" height="116" rx="18" fill="#0b1220" stroke="#0369a1"/>
+      <text x="18" y="136" font-size="15" font-weight="850" fill="#f8fafc">FailureVector</text>
+      <text x="18" y="166" font-size="13" fill="#cbd5e1">first failure,</text>
+      <text x="18" y="188" font-size="13" fill="#cbd5e1">classification</text>
+    </g>
+    <g transform="translate(425 142)">
+      <circle cx="68" cy="72" r="18" fill="#22c55e"/>
+      <rect x="0" y="102" width="160" height="116" rx="18" fill="#0b1220" stroke="#166534"/>
+      <text x="20" y="136" font-size="15" font-weight="850" fill="#f8fafc">SafetyGate</text>
+      <text x="20" y="166" font-size="13" fill="#cbd5e1">review-first</text>
+      <text x="20" y="188" font-size="13" fill="#cbd5e1">boundaries</text>
+    </g>
+    <g transform="translate(602 142)">
+      <circle cx="68" cy="72" r="18" fill="#22c55e"/>
+      <rect x="0" y="102" width="178" height="116" rx="18" fill="#0b1220" stroke="#15803d"/>
+      <text x="18" y="136" font-size="15" font-weight="850" fill="#f8fafc">TrajectoryStore</text>
+      <text x="18" y="166" font-size="13" fill="#cbd5e1">action response</text>
+      <text x="18" y="188" font-size="13" fill="#cbd5e1">proof outcome</text>
+    </g>
+    <g transform="translate(800 142)">
+      <circle cx="68" cy="72" r="18" fill="#f59e0b"/>
+      <rect x="0" y="102" width="190" height="116" rx="18" fill="#0b1220" stroke="#92400e"/>
+      <text x="18" y="136" font-size="15" font-weight="850" fill="#f8fafc">BenchmarkHarness</text>
+      <text x="18" y="166" font-size="13" fill="#cbd5e1">nop, oracle,</text>
+      <text x="18" y="188" font-size="13" fill="#cbd5e1">unsafe scenarios</text>
+    </g>
+    <g transform="translate(1010 142)">
+      <circle cx="68" cy="72" r="18" fill="#f59e0b"/>
+      <rect x="0" y="102" width="190" height="116" rx="18" fill="#0b1220" stroke="#b45309"/>
+      <text x="18" y="136" font-size="15" font-weight="850" fill="#f8fafc">Verifier + Reporter</text>
+      <text x="18" y="166" font-size="13" fill="#cbd5e1">scope, proof,</text>
+      <text x="18" y="188" font-size="13" fill="#cbd5e1">PR evidence</text>
+    </g>
   </g>
 </svg>
