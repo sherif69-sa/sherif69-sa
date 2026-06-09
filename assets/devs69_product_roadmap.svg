@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="DevS69 SDETKit product roadmap">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08111f"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <style>
+      .font { font-family: "Segoe UI", Inter, Arial, sans-serif; }
+      .title { fill:#f8fafc; font-size:30px; font-weight:800; }
+      .stage { fill:#f8fafc; font-size:17px; font-weight:800; }
+      .desc { fill:#94a3b8; font-size:13px; font-weight:550; }
+      .num { fill:#08111f; font-size:15px; font-weight:900; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="430" rx="26" fill="url(#bg)" stroke="#1f3b57"/>
+  <text x="48" y="72" class="font title">DevS69 SDETKit roadmap</text>
+  <text x="48" y="105" class="font desc" style="font-size:17px">Local-first reliability platform direction: evidence, diagnosis, safety, memory, benchmark, verifier, reporter.</text>
+
+  <line x1="105" y1="220" x2="1175" y2="220" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <line x1="105" y1="220" x2="1175" y2="220" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+
+  <g transform="translate(80,150)">
+    <circle cx="25" cy="70" r="25" fill="#38bdf8"/>
+    <text x="18" y="76" class="font num">1</text>
+    <rect x="-20" y="112" width="140" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="2" y="140" class="font stage">Evidence Core</text>
+    <text x="0" y="164" class="font desc">logs · commands</text>
+  </g>
+
+  <g transform="translate(250,150)">
+    <circle cx="25" cy="70" r="25" fill="#60a5fa"/>
+    <text x="18" y="76" class="font num">2</text>
+    <rect x="-30" y="112" width="170" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="-8" y="140" class="font stage">FailureVector</text>
+    <text x="-8" y="164" class="font desc">first failure extraction</text>
+  </g>
+
+  <g transform="translate(450,150)">
+    <circle cx="25" cy="70" r="25" fill="#22c55e"/>
+    <text x="18" y="76" class="font num">3</text>
+    <rect x="-22" y="112" width="150" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="4" y="140" class="font stage">SafetyGate</text>
+    <text x="0" y="164" class="font desc">review-first rules</text>
+  </g>
+
+  <g transform="translate(630,150)">
+    <circle cx="25" cy="70" r="25" fill="#a78bfa"/>
+    <text x="18" y="76" class="font num">4</text>
+    <rect x="-38" y="112" width="190" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="-18" y="140" class="font stage">TrajectoryStore</text>
+    <text x="-20" y="164" class="font desc">action → proof → outcome</text>
+  </g>
+
+  <g transform="translate(850,150)">
+    <circle cx="25" cy="70" r="25" fill="#fb923c"/>
+    <text x="18" y="76" class="font num">5</text>
+    <rect x="-52" y="112" width="210" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="-32" y="140" class="font stage">Benchmark Harness</text>
+    <text x="-30" y="164" class="font desc">nop · oracle · unsafe checks</text>
+  </g>
+
+  <g transform="translate(1090,150)">
+    <circle cx="25" cy="70" r="25" fill="#f59e0b"/>
+    <text x="18" y="76" class="font num">6</text>
+    <rect x="-62" y="112" width="210" height="70" rx="14" fill="#0f1b2d" stroke="#243b53"/>
+    <text x="-42" y="140" class="font stage">Verifier + Reporter</text>
+    <text x="-42" y="164" class="font desc">safe proof and PR output</text>
+  </g>
+</svg>
