@@ -1,0 +1,44 @@
+<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LeetCode practice grid</title>
+  <desc id="desc">LeetCode practice system across Python, Pandas, and TypeScript with engineering habits.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460"><stop stop-color="#0B1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>
+      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:34px;font-weight:850;fill:#F8FAFC;letter-spacing:-.02em}
+      .p{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:17px;font-weight:520;fill:#CBD5E1}
+      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:800;fill:#F59E0B;letter-spacing:.1em;text-transform:uppercase}
+      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:23px;font-weight:850;fill:#F8FAFC}
+      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;font-weight:540;fill:#94A3B8}
+      .m{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:800;fill:#E2E8F0}
+    </style>
+  </defs>
+  <rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+  <text x="72" y="72" class="k">Practice system</text>
+  <text x="72" y="116" class="h">LeetCode as engineering training, not random solving.</text>
+  <text x="72" y="150" class="p">The goal is to build correctness, hidden-test safety, runtime judgment, memory awareness, and debugging discipline.</text>
+
+  <g transform="translate(78 205)">
+    <rect x="0" y="0" width="338" height="136" rx="20" fill="#0F172A" stroke="#3776AB"/>
+    <text x="28" y="42" class="t">Python / Python3</text>
+    <text x="28" y="75" class="s">Main algorithm and data-structure track</text>
+    <text x="28" y="104" class="s">graphs · DP · heaps · design · caches</text>
+  </g>
+  <g transform="translate(470 205)">
+    <rect x="0" y="0" width="338" height="136" rx="20" fill="#0F172A" stroke="#150458"/>
+    <text x="28" y="42" class="t">Pandas</text>
+    <text x="28" y="75" class="s">DataFrame and database-style track</text>
+    <text x="28" y="104" class="s">tables · logs · metrics · reports</text>
+  </g>
+  <g transform="translate(862 205)">
+    <rect x="0" y="0" width="338" height="136" rx="20" fill="#0F172A" stroke="#3178C6"/>
+    <text x="28" y="42" class="t">TypeScript</text>
+    <text x="28" y="75" class="s">Support track for typed implementation</text>
+    <text x="28" y="104" class="s">classes · closures · APIs · JS/TS tasks</text>
+  </g>
+
+  <g transform="translate(78 378)">
+    <rect x="0" y="0" width="1122" height="44" rx="14" fill="#020617" stroke="#1E293B"/>
+    <text x="32" y="28" class="m">Priority order:</text>
+    <text x="150" y="28" class="s">correctness → hidden-test safety → optimal algorithm → memory awareness → practical runtime → micro-optimization</text>
+  </g>
+</svg>

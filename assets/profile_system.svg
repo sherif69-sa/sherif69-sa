@@ -1,0 +1,57 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional capability system</title>
+  <desc id="desc">Capability map for Python SDET, AI evaluation, coding benchmark QA, CI evidence, and repository review.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>
+      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:31px;font-weight:800;fill:#F8FAFC;letter-spacing:-.02em}
+      .p{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:17px;font-weight:520;fill:#CBD5E1}
+      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;font-weight:800;fill:#93C5FD;letter-spacing:.08em;text-transform:uppercase}
+      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:21px;font-weight:800;fill:#F8FAFC}
+      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;font-weight:520;fill:#94A3B8}
+    </style>
+  </defs>
+  <rect width="1280" height="430" rx="24" fill="url(#bg)"/>
+  <rect x="54" y="46" width="1172" height="338" rx="22" fill="#020617" opacity="0.55" stroke="#1E293B"/>
+  <text x="88" y="96" class="k">Portfolio signal</text>
+  <text x="88" y="139" class="h">I validate software behavior with evidence, not assumptions.</text>
+  <text x="88" y="172" class="p">The work combines test engineering, AI output evaluation, benchmark review, CI evidence, and repository-level diagnosis.</text>
+
+  <g transform="translate(88 216)">
+    <g>
+      <rect x="0" y="0" width="214" height="116" rx="18" fill="#0F172A" stroke="#2563EB"/>
+      <circle cx="28" cy="29" r="9" fill="#38BDF8"/>
+      <text x="48" y="35" class="t">Python SDET</text>
+      <text x="24" y="70" class="s">pytest validation</text>
+      <text x="24" y="94" class="s">failure reproduction</text>
+    </g>
+    <g transform="translate(234 0)">
+      <rect x="0" y="0" width="214" height="116" rx="18" fill="#0F172A" stroke="#7C3AED"/>
+      <circle cx="28" cy="29" r="9" fill="#A78BFA"/>
+      <text x="48" y="35" class="t">AI Evaluation</text>
+      <text x="24" y="70" class="s">rubric alignment</text>
+      <text x="24" y="94" class="s">source-grounded QA</text>
+    </g>
+    <g transform="translate(468 0)">
+      <rect x="0" y="0" width="214" height="116" rx="18" fill="#0F172A" stroke="#F59E0B"/>
+      <circle cx="28" cy="29" r="9" fill="#FBBF24"/>
+      <text x="48" y="35" class="t">Benchmark QA</text>
+      <text x="24" y="70" class="s">edge cases</text>
+      <text x="24" y="94" class="s">expected behavior</text>
+    </g>
+    <g transform="translate(702 0)">
+      <rect x="0" y="0" width="214" height="116" rx="18" fill="#0F172A" stroke="#22C55E"/>
+      <circle cx="28" cy="29" r="9" fill="#4ADE80"/>
+      <text x="48" y="35" class="t">CI Evidence</text>
+      <text x="24" y="70" class="s">command proof</text>
+      <text x="24" y="94" class="s">JSON / Markdown reports</text>
+    </g>
+    <g transform="translate(936 0)">
+      <rect x="0" y="0" width="214" height="116" rx="18" fill="#0F172A" stroke="#64748B"/>
+      <circle cx="28" cy="29" r="9" fill="#CBD5E1"/>
+      <text x="48" y="35" class="t">Repo Review</text>
+      <text x="24" y="70" class="s">clone and inspect</text>
+      <text x="24" y="94" class="s">broken/fixed comparison</text>
+    </g>
+  </g>
+</svg>
