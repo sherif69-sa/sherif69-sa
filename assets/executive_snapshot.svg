@@ -1,0 +1,35 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Executive snapshot</title>
+  <desc id="desc">A concise snapshot of role, proof, and product direction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#07101D"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>
+      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;font-weight:850;letter-spacing:.12em;text-transform:uppercase;fill:#93C5FD}
+      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:30px;font-weight:850;fill:#F8FAFC;letter-spacing:-.02em}
+      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:20px;font-weight:850;fill:#F8FAFC}
+      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:15px;font-weight:550;fill:#CBD5E1}
+      .m{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:540;fill:#94A3B8}
+    </style>
+  </defs>
+  <rect width="1280" height="330" rx="24" fill="url(#bg)"/>
+  <text x="70" y="62" class="k">Portfolio snapshot</text>
+  <text x="70" y="103" class="h">A practical profile for test reliability, AI evaluation, and evidence-based engineering.</text>
+  <g transform="translate(70 145)">
+    <rect x="0" y="0" width="356" height="128" rx="20" fill="#0B1120" stroke="#334155"/>
+    <text x="28" y="40" class="t">Role focus</text>
+    <text x="28" y="72" class="s">Python SDET · AI Evaluation</text>
+    <text x="28" y="99" class="m">Coding Benchmark QA · repository review</text>
+  </g>
+  <g transform="translate(462 145)">
+    <rect x="0" y="0" width="356" height="128" rx="20" fill="#0B1120" stroke="#334155"/>
+    <text x="28" y="40" class="t">Proof style</text>
+    <text x="28" y="72" class="s">focused tests · CI evidence · artifacts</text>
+    <text x="28" y="99" class="m">clear reports another engineer can inspect</text>
+  </g>
+  <g transform="translate(854 145)">
+    <rect x="0" y="0" width="356" height="128" rx="20" fill="#0B1120" stroke="#334155"/>
+    <text x="28" y="40" class="t">Product direction</text>
+    <text x="28" y="72" class="s">DevS69 SDETKit reliability platform</text>
+    <text x="28" y="99" class="m">FailureVector · SafetyGate · TrajectoryStore</text>
+  </g>
+</svg>
