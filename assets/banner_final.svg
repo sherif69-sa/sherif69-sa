@@ -1,49 +1,37 @@
-<svg width="1400" height="390" viewBox="0 0 1400 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sherif Atef — Python SDET and AI Evaluation Engineer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="390">
-      <stop offset="0" stop-color="#0B1020"/>
-      <stop offset="0.45" stop-color="#111D3A"/>
-      <stop offset="1" stop-color="#1E1636"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="120" y1="60" x2="1280" y2="330">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#22C55E"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="16" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.42 0"/>
-      <feBlend in="SourceGraphic" mode="screen"/>
-    </filter>
-  </defs>
-  <rect width="1400" height="390" rx="34" fill="url(#bg)"/>
-  <path d="M0 292 C220 230 310 345 530 275 C705 220 850 135 1080 185 C1230 218 1320 162 1400 125 V390 H0 Z" fill="url(#accent)" opacity="0.13"/>
-  <circle cx="1125" cy="92" r="190" fill="#38BDF8" opacity="0.09"/>
-  <circle cx="1220" cy="290" r="160" fill="#8B5CF6" opacity="0.10"/>
-  <g opacity="0.24">
-    <path d="M82 75H520" stroke="#E2E8F0" stroke-opacity=".38"/>
-    <path d="M82 315H690" stroke="#E2E8F0" stroke-opacity=".18"/>
-    <path d="M940 55H1280" stroke="#E2E8F0" stroke-opacity=".22"/>
-    <path d="M965 335H1290" stroke="#E2E8F0" stroke-opacity=".16"/>
-  </g>
-  <g filter="url(#glow)">
-    <rect x="82" y="74" width="172" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity=".55"/>
-    <text x="168" y="97" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#BAE6FD">PYTHON SDET</text>
-    <rect x="270" y="74" width="188" height="34" rx="17" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".55"/>
-    <text x="364" y="97" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#DDD6FE">AI EVALUATION</text>
-    <rect x="474" y="74" width="205" height="34" rx="17" fill="#0F172A" stroke="#34D399" stroke-opacity=".55"/>
-    <text x="576" y="97" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#BBF7D0">BENCHMARK QA</text>
-  </g>
-  <text x="82" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="900" fill="#F8FAFC" letter-spacing="-2.5">Sherif Atef</text>
-  <text x="86" y="223" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#D7E3F8">Python SDET &amp; AI Evaluation Engineer</text>
-  <text x="86" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#94A3B8">Coding Benchmark QA · Test Reliability · CI Evidence · Repository Review</text>
-  <g transform="translate(975 94)">
-    <rect width="310" height="192" rx="24" fill="#0B1224" stroke="#334155"/>
-    <text x="28" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" fill="#F8FAFC">Validation Loop</text>
-    <text x="28" y="83" font-family="JetBrains Mono,Consolas,monospace" font-size="15" fill="#7DD3FC">clone → reproduce</text>
-    <text x="28" y="113" font-family="JetBrains Mono,Consolas,monospace" font-size="15" fill="#C4B5FD">inspect → test</text>
-    <text x="28" y="143" font-family="JetBrains Mono,Consolas,monospace" font-size="15" fill="#86EFAC">report → improve</text>
-    <rect x="28" y="162" width="254" height="8" rx="4" fill="#1E293B"/>
-    <rect x="28" y="162" width="215" height="8" rx="4" fill="url(#accent)"/>
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sherif Atef - Python SDET and AI Evaluation Engineer</title>
+  <desc id="desc">Professional GitHub profile banner for Python SDET, AI evaluation, coding benchmark QA, and CI evidence work.</desc>
+
+  <rect width="1280" height="360" rx="28" fill="#0B1220"/>
+  <rect x="28" y="28" width="1224" height="304" rx="24" fill="#111827" stroke="#263244"/>
+
+  <circle cx="1080" cy="85" r="115" fill="#1D4ED8" opacity="0.18"/>
+  <circle cx="1175" cy="250" r="150" fill="#7C3AED" opacity="0.16"/>
+  <circle cx="135" cy="285" r="145" fill="#0891B2" opacity="0.12"/>
+
+  <text x="72" y="108" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="3">
+    SHERIF ATEF
+  </text>
+
+  <text x="72" y="170" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">
+    Python SDET &amp; AI Evaluation Engineer
+  </text>
+
+  <text x="72" y="222" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">
+    Coding Benchmark QA · Test Reliability · CI Evidence · Repository Review
+  </text>
+
+  <g transform="translate(72 265)">
+    <rect width="176" height="38" rx="19" fill="#1F2937" stroke="#374151"/>
+    <text x="22" y="25" fill="#D1D5DB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Python / pytest</text>
+
+    <rect x="194" width="170" height="38" rx="19" fill="#1F2937" stroke="#374151"/>
+    <text x="216" y="25" fill="#D1D5DB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Docker Tasks</text>
+
+    <rect x="382" width="182" height="38" rx="19" fill="#1F2937" stroke="#374151"/>
+    <text x="404" y="25" fill="#D1D5DB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">GitHub Actions</text>
+
+    <rect x="582" width="184" height="38" rx="19" fill="#1F2937" stroke="#374151"/>
+    <text x="604" y="25" fill="#D1D5DB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Evidence Reports</text>
   </g>
 </svg>
