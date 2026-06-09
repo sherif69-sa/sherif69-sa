@@ -1,0 +1,16 @@
+<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DevS69 SDETKit control plane roadmap">
+  <defs><linearGradient id="g" x1="92" y1="238" x2="1188" y2="238"><stop stop-color="#38BDF8"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+  <rect width="1280" height="470" rx="28" fill="#0B1220"/>
+  <rect x="44" y="40" width="1192" height="390" rx="24" fill="#0F172A" stroke="#273449"/>
+  <text x="78" y="94" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">DevS69 SDETKit · Local-First Reliability Control Plane</text>
+  <text x="78" y="126" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Roadmap from evidence collection to reviewable diagnosis, protected proof, and repo memory.</text>
+  <path d="M106 238H1174" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(70 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#38BDF8" stroke-width="2"/><text x="28" y="70" fill="#BAE6FD" font-size="24" font-weight="900">01</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">Evidence Core</text><text x="0" y="170" fill="#94A3B8" font-size="13">logs · commands · CI</text></g>
+    <g transform="translate(242 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#22D3EE" stroke-width="2"/><text x="28" y="70" fill="#CFFAFE" font-size="24" font-weight="900">02</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">FailureVectorEngine</text><text x="0" y="170" fill="#94A3B8" font-size="13">first failure · class</text></g>
+    <g transform="translate(438 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#F59E0B" stroke-width="2"/><text x="28" y="70" fill="#FDE68A" font-size="24" font-weight="900">03</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">SafetyGate</text><text x="0" y="170" fill="#94A3B8" font-size="13">review-first boundary</text></g>
+    <g transform="translate(612 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#38BDF8" stroke-width="2"/><text x="28" y="70" fill="#BAE6FD" font-size="24" font-weight="900">04</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">TrajectoryStore</text><text x="0" y="170" fill="#94A3B8" font-size="13">action → proof</text></g>
+    <g transform="translate(790 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#22D3EE" stroke-width="2"/><text x="28" y="70" fill="#CFFAFE" font-size="24" font-weight="900">05</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">BenchmarkHarness</text><text x="0" y="170" fill="#94A3B8" font-size="13">nop · oracle · unsafe</text></g>
+    <g transform="translate(980 174)"><circle cx="52" cy="64" r="42" fill="#122033" stroke="#F59E0B" stroke-width="2"/><text x="28" y="70" fill="#FDE68A" font-size="24" font-weight="900">06</text><text x="0" y="144" fill="#F8FAFC" font-size="18" font-weight="850">ProtectedVerifier</text><text x="0" y="170" fill="#94A3B8" font-size="13">scope · proof · report</text></g>
+  </g>
+</svg>

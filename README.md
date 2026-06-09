@@ -10,7 +10,7 @@
 
 ## About
 
-I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
+I am **Sherif Atef**, a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
 
 I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
 
@@ -19,30 +19,57 @@ Clone → Reproduce → Inspect → Test → Report
 ```
 
 <p align="center">
-  <img src="./assets/portfolio_operating_system.svg" alt="Sherif portfolio operating system" width="100%" />
+  <img src="./assets/signature_identity.svg" alt="Sherif profile identity" width="100%" />
 </p>
-
-> Engineering note: the strongest profile signal is not decoration. It is a repeatable way to read a system, identify the contract, reproduce the behavior, and prove the outcome.
 
 ---
 
-## Professional Signal
+## Portfolio Operating System
 
 <p align="center">
-  <img src="./assets/recruiter_signal_board.svg" alt="Reviewer signal board" width="100%" />
+  <img src="./assets/portfolio_operating_system.svg" alt="Portfolio operating system map" width="100%" />
 </p>
+
+This profile is built as a connected portfolio, not a random list of badges. The same operating loop appears across SDET work, AI evaluation, LeetCode practice, and my flagship project: reproduce the behavior, inspect the contract, test the result, and report the evidence.
+
+> **Engineering note:** I care about whether a result is reproducible, reviewable, and supported by proof. A green check is useful only when the right proof ran for the right surface.
+
+---
+
+## Reviewer Signal Board
 
 <p align="center">
-  <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
+  <img src="./assets/reviewer_signal_board.svg" alt="Reviewer signal board" width="100%" />
 </p>
 
-| Area | Practical focus |
+| Signal | Why it matters |
 | --- | --- |
-| **Python SDET** | pytest validation, failure reproduction, test and fix review |
-| **AI Evaluation** | model-output review, task logic, rubric alignment, source-grounded QA |
-| **Coding Benchmark QA** | hidden edge cases, expected behavior, reference checks, reproducibility risks |
-| **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
-| **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
+| **Python SDET focus** | test behavior, reproduce failures, review fixes, and protect quality gates |
+| **AI Evaluation alignment** | review model-generated code, benchmark tasks, rubrics, and expected outputs |
+| **DevS69 SDETKit** | public project proving repo quality, CI evidence, and release-confidence thinking |
+| **LeetCode discipline** | long-term practice for algorithms, data structures, Pandas, and TypeScript support |
+| **Evidence mindset** | JSON reports, Markdown proof, command traces, and review-first decisions |
+
+---
+
+## Evidence Stack
+
+<p align="center">
+  <img src="./assets/evidence_stack.svg" alt="Evidence stack" width="100%" />
+</p>
+
+I use this stack when reviewing repositories, validating tasks, or debugging failures:
+
+```text
+reproduce the state
+inspect the contract
+run focused proof
+compare expected vs actual
+write the evidence
+reuse the learning
+```
+
+This is the foundation behind my SDET work, AI evaluation workflow, and DevS69 SDETKit roadmap.
 
 ---
 
@@ -55,7 +82,7 @@ It is an evidence-first Python SDET toolkit for release confidence, CI workflow 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
+  <img src="./assets/devs69_control_plane.svg" alt="DevS69 SDETKit control plane roadmap" width="100%" />
 </p>
 
 The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
@@ -70,11 +97,20 @@ The long-term direction is a local-first reliability platform that helps maintai
 | **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
 
 <details>
-<summary><strong>How I think about DevS69 SDETKit</strong></summary>
+<summary><strong>What I am building toward</strong></summary>
 
-The project is not meant to be a vague automation bot. The goal is a reliability system that can read real repo evidence, separate headline noise from the first meaningful failure, keep risky work review-first, and produce reports another engineer can trust.
+```text
+CI/local command fails
+→ collect exact evidence
+→ extract the first real failure
+→ classify risk and owner surface
+→ decide safe vs review-first
+→ run focused proof
+→ report the result
+→ record the trajectory for future diagnosis
+```
 
-The first valuable milestone is local and deterministic: file-backed evidence, focused tests, clear JSON/Markdown artifacts, and proof commands that can be reviewed.
+The project is intentionally conservative: diagnosis first, review-first for unknowns, and safe remediation only after narrow patterns are proven.
 
 </details>
 
@@ -87,7 +123,7 @@ LeetCode is part of my long-term programming discipline. I use it to strengthen 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
+  <img src="./assets/benchmark_practice_system.svg" alt="LeetCode benchmark practice system" width="100%" />
 </p>
 
 | Track | Purpose |
@@ -109,22 +145,16 @@ Micro-optimization last
 
 ## Working Method
 
-<p align="center">
-  <img src="./assets/operating_model.svg" alt="Working method from task contract to documented evidence" width="100%" />
-</p>
+| Step | What I do |
+| --- | --- |
+| **01 · Understand** | identify the exact task contract and expected behavior |
+| **02 · Reproduce** | run the scenario or inspect the broken state |
+| **03 · Inspect** | read implementation, tests, CI config, and evidence surfaces |
+| **04 · Validate** | run focused proof before broad claims |
+| **05 · Compare** | separate expected behavior from actual behavior |
+| **06 · Report** | document the decision with command evidence and review notes |
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
-
-<details>
-<summary><strong>What I try to prove before calling work complete</strong></summary>
-
-- The expected behavior is clear.
-- The failure or risk can be reproduced or explained.
-- The changed files match the problem scope.
-- Tests or focused proof support the claim.
-- The final report is understandable by another engineer.
-
-</details>
 
 ---
 
