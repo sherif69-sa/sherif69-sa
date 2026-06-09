@@ -1,18 +1,49 @@
-<svg width="1280" height="520" viewBox="0 0 1280 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="600" viewBox="0 0 1600 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Sherif portfolio operating system</title>
-  <desc id="desc">A premium operating system visual connecting identity, evidence, diagnosis, safety, proof, and reporting.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="rail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#22c55e"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
-  <rect width="1280" height="520" rx="26" fill="url(#bg)"/>
-  <text x="56" y="68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" fill="#f8fafc">Portfolio Operating System</text>
-  <text x="56" y="102" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">How the profile fits together: identity, practice, project, proof, and review-first engineering.</text>
-  <rect x="82" y="245" width="1116" height="8" rx="4" fill="url(#rail)" opacity="0.86"/>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g transform="translate(54 150)"><rect width="184" height="190" rx="22" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.46"/><text x="22" y="44" font-size="18" font-weight="850" fill="#f8fafc">Identity</text><text x="22" y="82" font-size="14" fill="#cbd5e1">Python SDET</text><text x="22" y="108" font-size="14" fill="#cbd5e1">AI Evaluation</text><text x="22" y="134" font-size="14" fill="#cbd5e1">Benchmark QA</text></g>
-    <g transform="translate(258 150)"><rect width="184" height="190" rx="22" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.46"/><text x="22" y="44" font-size="18" font-weight="850" fill="#f8fafc">Evidence</text><text x="22" y="82" font-size="14" fill="#cbd5e1">logs</text><text x="22" y="108" font-size="14" fill="#cbd5e1">tests</text><text x="22" y="134" font-size="14" fill="#cbd5e1">artifacts</text></g>
-    <g transform="translate(462 150)"><rect width="184" height="190" rx="22" fill="#0b1220" stroke="#22c55e" stroke-opacity="0.46"/><text x="22" y="44" font-size="18" font-weight="850" fill="#f8fafc">Diagnosis</text><text x="22" y="82" font-size="14" fill="#cbd5e1">first failure</text><text x="22" y="108" font-size="14" fill="#cbd5e1">root cause</text><text x="22" y="134" font-size="14" fill="#cbd5e1">owner files</text></g>
-    <g transform="translate(666 150)"><rect width="184" height="190" rx="22" fill="#0b1220" stroke="#22c55e" stroke-opacity="0.46"/><text x="22" y="44" font-size="18" font-weight="850" fill="#f8fafc">Safety</text><text x="22" y="82" font-size="14" fill="#cbd5e1">review-first</text><text x="22" y="108" font-size="14" fill="#cbd5e1">scope checks</text><text x="22" y="134" font-size="14" fill="#cbd5e1">no gate weakening</text></g>
-    <g transform="translate(870 150)"><rect width="184" height="190" rx="22" fill="#0b1220" stroke="#f59e0b" stroke-opacity="0.5"/><text x="22" y="44" font-size="18" font-weight="850" fill="#f8fafc">Proof</text><text x="22" y="82" font-size="14" fill="#cbd5e1">focused tests</text><text x="22" y="108" font-size="14" fill="#cbd5e1">CI evidence</text><text x="22" y="134" font-size="14" fill="#cbd5e1">commands</text></g>
-    <g transform="translate(1074 150)"><rect width="154" height="190" rx="22" fill="#0b1220" stroke="#f59e0b" stroke-opacity="0.5"/><text x="20" y="44" font-size="18" font-weight="850" fill="#f8fafc">Report</text><text x="20" y="82" font-size="14" fill="#cbd5e1">PR notes</text><text x="20" y="108" font-size="14" fill="#cbd5e1">README</text><text x="20" y="134" font-size="14" fill="#cbd5e1">learning</text></g>
+  <desc id="desc">A portfolio map connecting identity, evidence, flagship project, and practice system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="600"><stop stop-color="#070B18"/><stop offset="1" stop-color="#0B182A"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 300) scale(680 320)"><stop stop-color="#2FE8FF" stop-opacity="0.22"/><stop offset="1" stop-color="#08101C" stop-opacity="0"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.28"/></filter>
+  </defs>
+  <rect width="1600" height="600" rx="38" fill="url(#bg)"/>
+  <rect width="1600" height="600" rx="38" fill="url(#glow)"/>
+  <rect x="34" y="34" width="1532" height="532" rx="28" stroke="#8EDFFF" stroke-opacity="0.18"/>
+  <text x="80" y="98" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="850">Portfolio Operating System</text>
+  <text x="80" y="134" fill="#9FB4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">A single professional story: identity, proof, project, practice, and review-ready execution.</text>
+
+  <g stroke="#7DE6FF" stroke-opacity="0.26" stroke-width="3">
+    <path d="M372 302H566"/>
+    <path d="M720 302H914"/>
+    <path d="M1068 302H1262"/>
   </g>
-  <text x="56" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#dbeafe">Portfolio thesis:</text><text x="190" y="430" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#cbd5e1">The strongest signal is repeatable engineering judgment, not decoration.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="84" y="206" width="288" height="192" rx="28" fill="#0D1528" stroke="#62E6FF" stroke-opacity="0.34"/>
+    <circle cx="130" cy="254" r="20" fill="#122E4D" stroke="#62E6FF"/>
+    <text x="164" y="263" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">Identity</text>
+    <text x="120" y="314" fill="#DAE5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Python SDET</text>
+    <text x="120" y="342" fill="#DAE5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">AI Evaluation</text>
+    <text x="120" y="370" fill="#8FA5CC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">quality signal, not generic coding</text>
+
+    <rect x="566" y="206" width="288" height="192" rx="28" fill="#0C1327" stroke="#B99DFF" stroke-opacity="0.33"/>
+    <circle cx="612" cy="254" r="20" fill="#25194B" stroke="#B99DFF"/>
+    <text x="646" y="263" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">Evidence</text>
+    <text x="602" y="314" fill="#E7DEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">reproduce → inspect</text>
+    <text x="602" y="342" fill="#E7DEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">test → explain</text>
+    <text x="602" y="370" fill="#9FAED0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">proof before confidence</text>
+
+    <rect x="1048" y="206" width="288" height="192" rx="28" fill="#0D1628" stroke="#FFB84D" stroke-opacity="0.38"/>
+    <circle cx="1094" cy="254" r="20" fill="#3A270F" stroke="#FFB84D"/>
+    <text x="1128" y="263" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">Flagship</text>
+    <text x="1084" y="314" fill="#FFF0D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">DevS69 SDETKit</text>
+    <text x="1084" y="342" fill="#FFF0D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">CI reliability platform</text>
+    <text x="1084" y="370" fill="#A9B5CE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">local-first, review-first, evidence-first</text>
+  </g>
+
+  <g transform="translate(360 455)">
+    <rect width="880" height="64" rx="32" fill="#07101E" stroke="#8EDFFF" stroke-opacity="0.17"/>
+    <text x="42" y="41" fill="#CFE9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Coding benchmark practice feeds implementation judgment</text>
+    <text x="448" y="41" fill="#FFB84D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Python · Pandas · TypeScript</text>
+  </g>
 </svg>

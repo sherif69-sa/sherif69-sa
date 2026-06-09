@@ -1,20 +1,20 @@
-<svg width="1280" height="500" viewBox="0 0 1280 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">LeetCode practice matrix</title>
-  <desc id="desc">A professional LeetCode practice matrix with Python, Pandas, and TypeScript tracks connected to real engineering habits.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1120"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
-  <rect width="1280" height="500" rx="24" fill="url(#bg)"/>
-  <text x="56" y="68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" fill="#f8fafc">LeetCode Practice Matrix</text>
-  <text x="56" y="102" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8">A programming discipline system that supports SDET judgment, not a badge wall.</text>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g transform="translate(68 146)"><rect width="336" height="212" rx="24" fill="#020617" stroke="#f59e0b" stroke-opacity="0.52"/><text x="26" y="46" font-size="24" font-weight="900" fill="#f8fafc">Python / Python3</text><text x="26" y="86" font-size="15" fill="#cbd5e1">main algorithm and data-structure track</text><text x="26" y="124" font-size="15" fill="#cbd5e1">graphs • DP • heaps • binary search</text><text x="26" y="154" font-size="15" fill="#cbd5e1">streams • caches • design problems</text></g>
-    <g transform="translate(472 146)"><rect width="336" height="212" rx="24" fill="#020617" stroke="#38bdf8" stroke-opacity="0.52"/><text x="26" y="46" font-size="24" font-weight="900" fill="#f8fafc">Pandas</text><text x="26" y="86" font-size="15" fill="#cbd5e1">dataframe and database-style track</text><text x="26" y="124" font-size="15" fill="#cbd5e1">tables • metrics • grouped reports</text><text x="26" y="154" font-size="15" fill="#cbd5e1">logs • evidence artifacts</text></g>
-    <g transform="translate(876 146)"><rect width="336" height="212" rx="24" fill="#020617" stroke="#a78bfa" stroke-opacity="0.52"/><text x="26" y="46" font-size="24" font-weight="900" fill="#f8fafc">TypeScript</text><text x="26" y="86" font-size="15" fill="#cbd5e1">support track for JS/TS problems</text><text x="26" y="124" font-size="15" fill="#cbd5e1">typed APIs • closures • classes</text><text x="26" y="154" font-size="15" fill="#cbd5e1">frontend-style design habits</text></g>
-    <g transform="translate(148 390)" font-size="14" font-weight="850">
-      <rect x="0" y="0" width="170" height="34" rx="17" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.35"/><text x="28" y="22" fill="#dbeafe">Correctness</text>
-      <rect x="190" y="0" width="180" height="34" rx="17" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.35"/><text x="218" y="22" fill="#dbeafe">Hidden tests</text>
-      <rect x="390" y="0" width="180" height="34" rx="17" fill="#0f172a" stroke="#22c55e" stroke-opacity="0.35"/><text x="421" y="22" fill="#dcfce7">Runtime</text>
-      <rect x="590" y="0" width="180" height="34" rx="17" fill="#0f172a" stroke="#22c55e" stroke-opacity="0.35"/><text x="622" y="22" fill="#dcfce7">Memory</text>
-      <rect x="790" y="0" width="210" height="34" rx="17" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.38"/><text x="822" y="22" fill="#ffedd5">Debugging discipline</text>
-    </g>
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LeetCode benchmark practice matrix</title>
+  <desc id="desc">Python, Pandas, and TypeScript tracks with engineering transfer habits.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560"><stop stop-color="#080B18"/><stop offset="1" stop-color="#11151E"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-opacity="0.28"/></filter></defs>
+  <rect width="1600" height="560" rx="34" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1540" height="500" rx="28" stroke="#FFB84D" stroke-opacity="0.18"/>
+  <text x="76" y="92" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="36" font-weight="850">LeetCode Practice Matrix</text>
+  <text x="76" y="126" fill="#AEB7C8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">A programming discipline system for correctness, hidden tests, memory, and practical runtime.</text>
+
+  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(86 190)"><rect width="410" height="230" rx="26" fill="#111827" stroke="#58DFFF" stroke-opacity="0.30"/><text x="30" y="56" fill="#58DFFF" font-size="20" font-weight="850">PYTHON / PYTHON3</text><text x="30" y="100" fill="#FFF" font-size="28" font-weight="850">main algorithm track</text><text x="30" y="142" fill="#DCE6FB" font-size="18">graphs · DP · heaps · binary search</text><text x="30" y="172" fill="#DCE6FB" font-size="18">streams · caches · design problems</text><text x="30" y="210" fill="#91A6CA" font-size="15">transfer: faster debugging and cleaner implementation</text></g>
+    <g transform="translate(595 190)"><rect width="410" height="230" rx="26" fill="#10192A" stroke="#66FFB8" stroke-opacity="0.26"/><text x="30" y="56" fill="#66FFB8" font-size="20" font-weight="850">PANDAS</text><text x="30" y="100" fill="#FFF" font-size="28" font-weight="850">dataframe proof track</text><text x="30" y="142" fill="#DDFDEE" font-size="18">tables · joins · logs · grouping</text><text x="30" y="172" fill="#DDFDEE" font-size="18">reports · metrics · artifact thinking</text><text x="30" y="210" fill="#91A8BE" font-size="15">transfer: structured data validation in QA work</text></g>
+    <g transform="translate(1104 190)"><rect width="410" height="230" rx="26" fill="#151320" stroke="#BCA4FF" stroke-opacity="0.26"/><text x="30" y="56" fill="#BCA4FF" font-size="20" font-weight="850">TYPESCRIPT</text><text x="30" y="100" fill="#FFF" font-size="28" font-weight="850">support design track</text><text x="30" y="142" fill="#E4DDFF" font-size="18">typed APIs · closures · classes</text><text x="30" y="172" fill="#E4DDFF" font-size="18">frontend-style design and JS problems</text><text x="30" y="210" fill="#99A8C9" font-size="15">transfer: broader coding benchmark literacy</text></g>
+  </g>
+
+  <g transform="translate(206 468)">
+    <rect width="1188" height="54" rx="27" fill="#0A111D" stroke="#FFB84D" stroke-opacity="0.18"/>
+    <text x="46" y="35" fill="#FFF3DF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Correctness → hidden-test safety → optimal algorithm → memory awareness → practical runtime → micro-optimization</text>
   </g>
 </svg>
