@@ -1,0 +1,21 @@
+<svg width="1400" height="470" viewBox="0 0 1400 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LeetCode practice system">
+  <rect width="1400" height="470" rx="30" fill="#0B1220"/>
+  <text x="70" y="74" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="36" font-weight="850">LeetCode Practice System</text>
+  <text x="70" y="112" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="18">Programming discipline used to strengthen real SDET and benchmark-review judgment.</text>
+  <g>
+    <rect x="70" y="155" width="390" height="160" rx="24" fill="#111827" stroke="#F59E0B"/>
+    <text x="100" y="205" fill="#FDE68A" font-family="Inter, Segoe UI, Arial" font-size="24" font-weight="850">Python / Python3</text>
+    <text x="100" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">Main algorithm track</text>
+    <text x="100" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">graphs · DP · heaps · binary search · streams</text>
+    <rect x="505" y="155" width="390" height="160" rx="24" fill="#111827" stroke="#38BDF8"/>
+    <text x="535" y="205" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial" font-size="24" font-weight="850">Pandas</text>
+    <text x="535" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">DataFrame and report track</text>
+    <text x="535" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">tables · logs · metrics · structured artifacts</text>
+    <rect x="940" y="155" width="390" height="160" rx="24" fill="#111827" stroke="#A78BFA"/>
+    <text x="970" y="205" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial" font-size="24" font-weight="850">TypeScript</text>
+    <text x="970" y="245" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">Support and typed API track</text>
+    <text x="970" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">classes · closures · typed logic · UI-style problems</text>
+  </g>
+  <rect x="70" y="350" width="1260" height="64" rx="20" fill="#111827" stroke="#334155"/>
+  <text x="100" y="390" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="17">Priority order: correctness → hidden-test safety → optimal algorithm → memory awareness → practical runtime → micro-optimization.</text>
+</svg>

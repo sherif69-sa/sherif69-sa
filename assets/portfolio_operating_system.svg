@@ -1,15 +1,36 @@
-<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio operating system map">
-  <defs><linearGradient id="g" x1="80" y1="70" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
-  <rect width="1280" height="430" rx="28" fill="#0B1220"/>
-  <rect x="44" y="40" width="1192" height="350" rx="24" fill="#0F172A" stroke="#273449"/>
-  <text x="78" y="92" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">Portfolio Operating System</text>
-  <text x="78" y="126" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">One story: engineering discipline, AI review, public project proof, and programming practice.</text>
-  <line x1="150" y1="242" x2="1130" y2="242" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <g transform="translate(72 162)"><rect width="218" height="152" rx="20" fill="#111C2E" stroke="#38BDF8" stroke-opacity=".55"/><text x="24" y="42" fill="#BAE6FD" font-size="16" font-weight="900">01 · Role Focus</text><text x="24" y="78" fill="#F8FAFC" font-size="20" font-weight="850">Python SDET</text><text x="24" y="108" fill="#94A3B8" font-size="14">tests, failures, proof</text></g>
-    <g transform="translate(322 162)"><rect width="218" height="152" rx="20" fill="#111C2E" stroke="#22D3EE" stroke-opacity=".55"/><text x="24" y="42" fill="#CFFAFE" font-size="16" font-weight="900">02 · AI Review</text><text x="24" y="78" fill="#F8FAFC" font-size="20" font-weight="850">Evaluation QA</text><text x="24" y="108" fill="#94A3B8" font-size="14">rubrics, outputs, logic</text></g>
-    <g transform="translate(572 162)"><rect width="218" height="152" rx="20" fill="#111C2E" stroke="#F59E0B" stroke-opacity=".55"/><text x="24" y="42" fill="#FDE68A" font-size="16" font-weight="900">03 · Public Proof</text><text x="24" y="78" fill="#F8FAFC" font-size="20" font-weight="850">DevS69 SDETKit</text><text x="24" y="108" fill="#94A3B8" font-size="14">release confidence system</text></g>
-    <g transform="translate(822 162)"><rect width="218" height="152" rx="20" fill="#111C2E" stroke="#38BDF8" stroke-opacity=".55"/><text x="24" y="42" fill="#BAE6FD" font-size="16" font-weight="900">04 · Practice</text><text x="24" y="78" fill="#F8FAFC" font-size="20" font-weight="850">LeetCode System</text><text x="24" y="108" fill="#94A3B8" font-size="14">Python, Pandas, TS</text></g>
-    <g transform="translate(1072 162)"><rect width="128" height="152" rx="20" fill="#111C2E" stroke="#22D3EE" stroke-opacity=".55"/><text x="20" y="42" fill="#CFFAFE" font-size="16" font-weight="900">05</text><text x="20" y="78" fill="#F8FAFC" font-size="19" font-weight="850">Career</text><text x="20" y="108" fill="#94A3B8" font-size="14">SDET roles</text></g>
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio operating system map">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1400" y2="520"><stop stop-color="#08111F"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+  </defs>
+  <rect width="1400" height="520" rx="32" fill="url(#panel)"/>
+  <text x="70" y="78" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="850">Portfolio Operating System</text>
+  <text x="70" y="115" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">A connected map of how my profile, project work, practice, and review method reinforce each other.</text>
+  <g stroke="#334155" stroke-width="2" opacity="0.9">
+    <path d="M330 242 H520"/><path d="M690 242 H870"/><path d="M1040 242 H1220"/>
+    <path d="M700 300 V378 H350"/><path d="M700 300 V378 H1050"/>
+  </g>
+  <g>
+    <rect x="80" y="168" width="270" height="148" rx="24" fill="url(#card)" stroke="#38BDF8"/>
+    <text x="110" y="214" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">Role Focus</text>
+    <text x="110" y="250" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">Python SDET</text>
+    <text x="110" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Test reliability · CI evidence</text>
+    <rect x="520" y="168" width="270" height="148" rx="24" fill="url(#card)" stroke="#A78BFA"/>
+    <text x="550" y="214" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">AI Evaluation</text>
+    <text x="550" y="250" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">Code-output review</text>
+    <text x="550" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Rubrics · expected behavior</text>
+    <rect x="870" y="168" width="270" height="148" rx="24" fill="url(#card)" stroke="#22C55E"/>
+    <text x="900" y="214" fill="#BBF7D0" font-family="Inter, Segoe UI, Arial" font-size="22" font-weight="800">DevS69 SDETKit</text>
+    <text x="900" y="250" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="17">Reliability platform</text>
+    <text x="900" y="278" fill="#94A3B8" font-family="Inter, Segoe UI, Arial" font-size="15">Failure vectors · safety gates</text>
+    <rect x="80" y="374" width="270" height="92" rx="22" fill="#0B1220" stroke="#F59E0B"/>
+    <text x="110" y="414" fill="#FDE68A" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="800">LeetCode System</text>
+    <text x="110" y="442" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="15">Python · Pandas · TypeScript</text>
+    <rect x="515" y="374" width="370" height="92" rx="22" fill="#0B1220" stroke="#38BDF8"/>
+    <text x="545" y="414" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="800">Evidence Workflow</text>
+    <text x="545" y="442" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="15">Reproduce · inspect · prove · report</text>
+    <rect x="1050" y="374" width="270" height="92" rx="22" fill="#0B1220" stroke="#A78BFA"/>
+    <text x="1080" y="414" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="800">Recruiter Signal</text>
+    <text x="1080" y="442" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="15">Clear role · proof · direction</text>
   </g>
 </svg>
