@@ -1,41 +1,53 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sherif Atef Python SDET and AI Evaluation Engineer banner">
+<svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sherif Atef — Python SDET and AI Evaluation Engineer</title>
+  <desc id="desc">Professional GitHub profile banner for Python SDET, AI evaluation, coding benchmark QA, and CI evidence workflows.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.52" stop-color="#111827"/>
-      <stop offset="1" stop-color="#1E1B4B"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.48" stop-color="#102B4E"/>
+      <stop offset="1" stop-color="#3B1B70"/>
     </linearGradient>
-    <linearGradient id="accent" x1="125" y1="55" x2="1080" y2="270" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="0.46" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#22C55E"/>
+    <linearGradient id="accent" x1="180" y1="64" x2="1440" y2="346" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.46" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
   </defs>
+  <rect width="1600" height="430" rx="34" fill="url(#bg)"/>
+  <circle cx="1360" cy="75" r="150" fill="#8B5CF6" opacity="0.22" filter="url(#soft)"/>
+  <circle cx="170" cy="350" r="170" fill="#38BDF8" opacity="0.18" filter="url(#soft)"/>
+  <path d="M80 338 C360 220 570 390 840 245 C1070 122 1250 170 1520 78" stroke="url(#accent)" stroke-width="5" opacity="0.8"/>
+  <path d="M80 355 C360 237 570 407 840 262 C1070 139 1250 187 1520 95" stroke="#FFFFFF" stroke-width="1.2" opacity="0.2"/>
 
-  <rect width="1200" height="320" rx="30" fill="url(#bg)"/>
-  <path d="M0 235 C180 170 315 290 510 210 C720 124 865 255 1200 110 V320 H0 V235Z" fill="#0B1120" opacity="0.72"/>
-  <path d="M80 60 H1120" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
-
-  <g opacity="0.16">
-    <circle cx="100" cy="92" r="2" fill="#E0F2FE"/><circle cx="132" cy="92" r="2" fill="#E0F2FE"/><circle cx="164" cy="92" r="2" fill="#E0F2FE"/>
-    <circle cx="100" cy="124" r="2" fill="#E0F2FE"/><circle cx="132" cy="124" r="2" fill="#E0F2FE"/><circle cx="164" cy="124" r="2" fill="#E0F2FE"/>
-    <circle cx="1030" cy="208" r="2" fill="#E0F2FE"/><circle cx="1062" cy="208" r="2" fill="#E0F2FE"/><circle cx="1094" cy="208" r="2" fill="#E0F2FE"/>
-    <circle cx="1030" cy="240" r="2" fill="#E0F2FE"/><circle cx="1062" cy="240" r="2" fill="#E0F2FE"/><circle cx="1094" cy="240" r="2" fill="#E0F2FE"/>
+  <g opacity="0.22">
+    <path d="M1020 50h420M1080 95h420M980 140h420M1060 185h420" stroke="#FFFFFF" stroke-width="1"/>
+    <circle cx="1020" cy="50" r="4" fill="#FFFFFF"/><circle cx="1080" cy="95" r="4" fill="#FFFFFF"/><circle cx="980" cy="140" r="4" fill="#FFFFFF"/><circle cx="1060" cy="185" r="4" fill="#FFFFFF"/>
   </g>
 
-  <g filter="url(#shadow)">
-    <rect x="78" y="82" width="1044" height="172" rx="24" fill="#020617" opacity="0.74" stroke="#334155"/>
-    <text x="110" y="135" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Sherif Atef</text>
-    <text x="112" y="178" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Python SDET &amp; AI Evaluation Engineer</text>
-    <text x="112" y="215" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Coding Benchmark QA · Test Reliability · CI Evidence · AI Workflow Validation</text>
+  <text x="90" y="115" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="0.5">Sherif Atef</text>
+  <text x="93" y="168" fill="#BEE7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Python SDET &amp; AI Evaluation Engineer</text>
+  <text x="93" y="213" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Coding Benchmark QA · Test Reliability · CI Evidence · Reproducible Review</text>
 
-    <g transform="translate(792 113)">
-      <rect x="0" y="0" width="284" height="92" rx="18" fill="#0F172A" stroke="#475569"/>
-      <text x="24" y="34" fill="#86EFAC" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700">Clone → Reproduce</text>
-      <text x="24" y="60" fill="#93C5FD" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700">Inspect → Test → Report</text>
-    </g>
+  <g transform="translate(92 265)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">
+    <rect x="0" y="0" width="164" height="42" rx="21" fill="#0EA5E9" opacity="0.95"/><text x="24" y="27" fill="#FFFFFF">Python</text>
+    <rect x="180" y="0" width="156" height="42" rx="21" fill="#10B981" opacity="0.95"/><text x="204" y="27" fill="#FFFFFF">pytest</text>
+    <rect x="352" y="0" width="156" height="42" rx="21" fill="#2563EB" opacity="0.95"/><text x="376" y="27" fill="#FFFFFF">Docker</text>
+    <rect x="524" y="0" width="238" height="42" rx="21" fill="#8B5CF6" opacity="0.95"/><text x="548" y="27" fill="#FFFFFF">GitHub Actions</text>
+    <rect x="778" y="0" width="202" height="42" rx="21" fill="#F59E0B" opacity="0.95"/><text x="802" y="27" fill="#111827">AI Eval QA</text>
+  </g>
+
+  <g transform="translate(93 344)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="0" y="0" fill="#FFFFFF">Clone</text>
+    <text x="88" y="0" fill="#38BDF8">→</text>
+    <text x="126" y="0" fill="#FFFFFF">Reproduce</text>
+    <text x="258" y="0" fill="#38BDF8">→</text>
+    <text x="296" y="0" fill="#FFFFFF">Inspect</text>
+    <text x="392" y="0" fill="#38BDF8">→</text>
+    <text x="430" y="0" fill="#FFFFFF">Test</text>
+    <text x="493" y="0" fill="#38BDF8">→</text>
+    <text x="531" y="0" fill="#FFFFFF">Report Evidence</text>
   </g>
 </svg>

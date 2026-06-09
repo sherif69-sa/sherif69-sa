@@ -1,0 +1,42 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DevS69 SDETKit system map</title>
+  <desc id="desc">System map showing repository signals, SDETKit evidence layer, and reviewer output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/><stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="mid" x1="500" y1="105" x2="900" y2="315" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <text x="60" y="62" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">DevS69 SDETKit as portfolio proof</text>
+  <text x="60" y="98" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="18">A public Python project that turns repo signals into auditable quality evidence.</text>
+
+  <g font-family="Inter, Segoe UI, Arial" text-anchor="middle">
+    <g transform="translate(215 210)">
+      <rect x="-145" y="-96" width="290" height="192" rx="26" fill="#082F49" stroke="#38BDF8" stroke-width="3"/>
+      <text y="-46" fill="#FFFFFF" font-size="26" font-weight="900">Inputs</text>
+      <text y="-8" fill="#BAE6FD" font-size="16">repo files · tests · CI logs</text>
+      <text y="22" fill="#BAE6FD" font-size="16">workflow permissions</text>
+      <text y="52" fill="#BAE6FD" font-size="16">release and security signals</text>
+    </g>
+    <path d="M380 210H520" stroke="#38BDF8" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(700 210)">
+      <rect x="-180" y="-115" width="360" height="230" rx="34" fill="url(#mid)"/>
+      <text y="-55" fill="#FFFFFF" font-size="31" font-weight="950">SDETKit</text>
+      <text y="-18" fill="#EEF2FF" font-size="17" font-weight="700">evidence-first reliability layer</text>
+      <text y="24" fill="#FFFFFF" font-size="16">failure diagnosis</text>
+      <text y="52" fill="#FFFFFF" font-size="16">release confidence</text>
+      <text y="80" fill="#FFFFFF" font-size="16">review-first governance</text>
+    </g>
+    <path d="M880 210H1020" stroke="#8B5CF6" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(1185 210)">
+      <rect x="-145" y="-96" width="290" height="192" rx="26" fill="#3B0764" stroke="#E879F9" stroke-width="3"/>
+      <text y="-46" fill="#FFFFFF" font-size="26" font-weight="900">Outputs</text>
+      <text y="-8" fill="#F5D0FE" font-size="16">JSON evidence</text>
+      <text y="22" fill="#F5D0FE" font-size="16">Markdown reports</text>
+      <text y="52" fill="#F5D0FE" font-size="16">proof commands for reviewers</text>
+    </g>
+  </g>
+</svg>

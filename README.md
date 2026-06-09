@@ -22,69 +22,69 @@
 
 I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
 
-My work is built around one practical validation loop:
+I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
 
 <p align="center">
   <img src="./assets/evidence_loop.svg" alt="Clone, reproduce, inspect, test, report" width="100%" />
 </p>
 
-I like engineering work that is clear, reproducible, and reviewable: understand the task contract, reproduce the behavior, inspect the implementation, run validation, and report the evidence.
+---
+
+## Portfolio Signal Map
+
+<p align="center">
+  <img src="./assets/profile_focus_map.svg" alt="Python SDET, AI evaluation, coding benchmark QA, CI evidence, DevS69 SDETKit, and LeetCode discipline" width="100%" />
+</p>
+
+| Signal | What it shows |
+| --- | --- |
+| **Python SDET** | pytest validation, failure reproduction, test and fix review |
+| **AI Evaluation** | model-output review, task logic, rubric alignment, source-grounded QA |
+| **Coding Benchmark QA** | hidden edge cases, expected behavior, reproducibility risks, reference checks |
+| **CI Evidence** | GitHub Actions review, command proof, JSON/Markdown artifacts |
+| **LeetCode Discipline** | algorithms, data structures, memory awareness, runtime tradeoffs |
 
 ---
 
 ## Flagship Project: DevS69 SDETKit
 
+<p align="center">
+  <img src="./assets/devs69_system_map.svg" alt="DevS69 SDETKit system map" width="100%" />
+</p>
+
 **DevS69 SDETKit** is my main public engineering project.
 
-It is an evidence-first Python SDET toolkit for:
-
-- release-confidence checks
-- CI workflow governance
-- failure diagnosis
-- reproducible quality review
-- permission-review evidence
-- structured JSON / Markdown reporting
-- review-first safety boundaries
+It is an evidence-first Python SDET toolkit for release confidence, CI workflow governance, failure diagnosis, reproducible quality review, permission-review evidence, structured reporting, and review-first safety boundaries.
 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
-The project reflects the way I work: small proven changes, focused tests, CI-style evidence, and clear reports that another engineer can review.
+The project reflects how I approach engineering work:
 
----
-
-## Professional Focus
-
-<p align="center">
-  <img src="./assets/profile_focus_map.svg" alt="SDET validation, AI evaluation, and engineering evidence" width="100%" />
-</p>
-
-### Core areas
-
-| Area | What I focus on |
-| --- | --- |
-| **Python SDET** | pytest validation, failure reproduction, test and fix review |
-| **AI Evaluation** | prompt/output review, task logic, rubric alignment, source-grounded QA |
-| **Coding Benchmark QA** | edge cases, expected behavior, reference checks, reproducibility risks |
-| **CI Evidence** | GitHub Actions review, command proof, JSON/Markdown evidence artifacts |
-| **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
+```text
+small changes
+focused proof
+clear CI evidence
+professional repository operations
+reviewable output
+```
 
 ---
 
 ## LeetCode Practice System
 
-LeetCode is part of my long-term programming discipline. I use it to strengthen the habits that transfer into real engineering work: choosing the right algorithm, reducing runtime and memory overhead, debugging hidden-test failures, and writing clean code under constraints.
+<p align="center">
+  <img src="./assets/leetcode_tracks.svg" alt="LeetCode Python, Pandas, and TypeScript practice tracks" width="100%" />
+</p>
+
+LeetCode is part of my long-term programming discipline. I use it to strengthen habits that transfer into real engineering work: choosing the right algorithm, reducing runtime and memory overhead, debugging hidden-test failures, and writing clean code under constraints.
 
 Profile: **https://leetcode.com/u/sherif69/**
-
-### Tracks
 
 | Track | Purpose |
 | --- | --- |
 | **Python / Python3** | Main track for algorithms, data structures, design, graphs, DP, heaps, binary search, streams, and caches |
-| **Pandas** | DataFrame and database-style practice for tables, logs, metrics, and structured artifacts |
+| **Pandas** | DataFrame and database-style practice for tables, logs, metrics, reports, and structured artifacts |
 | **TypeScript** | Support track for JS/TS-specific problems, typed APIs, closures, classes, and frontend-style design |
-
-### Practice goals
 
 ```text
 Correctness first
@@ -108,7 +108,7 @@ Micro-optimization last
 06 Document the evidence
 ```
 
-This method applies to SDET work, AI evaluation, coding benchmark review, and repository-quality validation.
+This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
 
 ---
 
@@ -122,7 +122,7 @@ AI evaluation workflows · Coding benchmark review · Repository inspection
 
 ---
 
-## Roles I Am Targeting
+## Target Roles
 
 - Python SDET
 - AI Evaluation Engineer

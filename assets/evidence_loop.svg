@@ -1,23 +1,44 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Evidence first engineering loop">
+<svg width="1400" height="300" viewBox="0 0 1400 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence validation loop</title>
+  <desc id="desc">Clone, reproduce, inspect, test, and report evidence workflow.</desc>
   <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#EEF2FF"/>
+    <linearGradient id="card" x1="0" y1="0" x2="1400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="150" x2="1280" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="280" rx="26" fill="url(#card)"/>
-  <text x="70" y="58" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Evidence-first engineering loop</text>
-  <text x="70" y="88" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">How I validate repositories, benchmark tasks, AI-generated code, and CI-style workflows.</text>
+  <rect width="1400" height="300" rx="28" fill="url(#card)"/>
+  <text x="54" y="58" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="800">Evidence-first validation loop</text>
+  <path d="M160 155H1240" stroke="url(#line)" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
-    <rect x="70" y="130" width="150" height="76" rx="18" fill="#0F172A"/><text x="104" y="176" fill="#E0F2FE">Clone</text>
-    <path d="M230 168 H282" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/><path d="M276 158 L292 168 L276 178" fill="#94A3B8"/>
-    <rect x="304" y="130" width="150" height="76" rx="18" fill="#1E293B"/><text x="334" y="176" fill="#DCFCE7">Reproduce</text>
-    <path d="M464 168 H516" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/><path d="M510 158 L526 168 L510 178" fill="#94A3B8"/>
-    <rect x="538" y="130" width="150" height="76" rx="18" fill="#312E81"/><text x="578" y="176" fill="#EDE9FE">Inspect</text>
-    <path d="M698 168 H750" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/><path d="M744 158 L760 168 L744 178" fill="#94A3B8"/>
-    <rect x="772" y="130" width="150" height="76" rx="18" fill="#075985"/><text x="824" y="176" fill="#E0F2FE">Test</text>
-    <path d="M932 168 H984" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/><path d="M978 158 L994 168 L978 178" fill="#94A3B8"/>
-    <rect x="1006" y="130" width="150" height="76" rx="18" fill="#166534"/><text x="1048" y="176" fill="#DCFCE7">Report</text>
+  <g font-family="Inter, Segoe UI, Arial" text-anchor="middle">
+    <g transform="translate(180 155)">
+      <circle r="55" fill="#082F49" stroke="#38BDF8" stroke-width="4"/>
+      <text y="-6" fill="#FFFFFF" font-size="21" font-weight="800">Clone</text>
+      <text y="24" fill="#BAE6FD" font-size="14">repo state</text>
+    </g>
+    <g transform="translate(440 155)">
+      <circle r="55" fill="#064E3B" stroke="#10B981" stroke-width="4"/>
+      <text y="-6" fill="#FFFFFF" font-size="21" font-weight="800">Reproduce</text>
+      <text y="24" fill="#BBF7D0" font-size="14">behavior</text>
+    </g>
+    <g transform="translate(700 155)">
+      <circle r="55" fill="#312E81" stroke="#8B5CF6" stroke-width="4"/>
+      <text y="-6" fill="#FFFFFF" font-size="21" font-weight="800">Inspect</text>
+      <text y="24" fill="#DDD6FE" font-size="14">contract</text>
+    </g>
+    <g transform="translate(960 155)">
+      <circle r="55" fill="#7C2D12" stroke="#FB923C" stroke-width="4"/>
+      <text y="-6" fill="#FFFFFF" font-size="21" font-weight="800">Test</text>
+      <text y="24" fill="#FED7AA" font-size="14">proof</text>
+    </g>
+    <g transform="translate(1220 155)">
+      <circle r="55" fill="#3B0764" stroke="#E879F9" stroke-width="4"/>
+      <text y="-6" fill="#FFFFFF" font-size="21" font-weight="800">Report</text>
+      <text y="24" fill="#F5D0FE" font-size="14">evidence</text>
+    </g>
   </g>
 </svg>

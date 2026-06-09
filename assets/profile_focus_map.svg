@@ -1,25 +1,64 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sherif Atef focus map">
-  <rect width="1200" height="390" rx="28" fill="#0B1120"/>
-  <text x="70" y="62" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Professional focus map</text>
-  <text x="70" y="92" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Python SDET · AI Evaluation · Coding Benchmark QA · CI evidence</text>
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sherif Atef professional focus map</title>
+  <desc id="desc">Map connecting Python SDET, AI evaluation, coding benchmark QA, CI evidence, LeetCode practice, and DevS69 SDETKit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/><stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+  <text x="60" y="62" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">Portfolio signal map</text>
+  <text x="60" y="98" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="18">The same habits connect my CV, GitHub project, LeetCode practice, and AI evaluation work.</text>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="70" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
-    <text x="100" y="176" fill="#93C5FD" font-size="22" font-weight="800">SDET Validation</text>
-    <text x="100" y="214" fill="#E5E7EB" font-size="16">pytest · Docker · Git</text>
-    <text x="100" y="244" fill="#E5E7EB" font-size="16">failure reproduction</text>
-    <text x="100" y="274" fill="#E5E7EB" font-size="16">test and fix validation</text>
+  <g stroke="#334155" stroke-width="3" opacity="0.95">
+    <path d="M700 260L290 170"/>
+    <path d="M700 260L1110 170"/>
+    <path d="M700 260L300 368"/>
+    <path d="M700 260L1100 368"/>
+    <path d="M700 260L700 122"/>
+    <path d="M700 260L700 418"/>
+  </g>
 
-    <rect x="440" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
-    <text x="470" y="176" fill="#C4B5FD" font-size="22" font-weight="800">AI Evaluation</text>
-    <text x="470" y="214" fill="#E5E7EB" font-size="16">task contract review</text>
-    <text x="470" y="244" fill="#E5E7EB" font-size="16">model output validation</text>
-    <text x="470" y="274" fill="#E5E7EB" font-size="16">source-grounded QA</text>
+  <g font-family="Inter, Segoe UI, Arial" text-anchor="middle">
+    <g transform="translate(700 260)">
+      <circle r="92" fill="url(#node)" opacity="0.96"/>
+      <text y="-12" fill="#FFFFFF" font-size="28" font-weight="900">Sherif Atef</text>
+      <text y="22" fill="#EEF2FF" font-size="18" font-weight="700">Python SDET</text>
+      <text y="48" fill="#EEF2FF" font-size="18" font-weight="700">AI Evaluation</text>
+    </g>
 
-    <rect x="810" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
-    <text x="840" y="176" fill="#86EFAC" font-size="22" font-weight="800">Engineering Evidence</text>
-    <text x="840" y="214" fill="#E5E7EB" font-size="16">CI-style checks</text>
-    <text x="840" y="244" fill="#E5E7EB" font-size="16">JSON / Markdown reports</text>
-    <text x="840" y="274" fill="#E5E7EB" font-size="16">review-first proof</text>
+    <g transform="translate(290 170)">
+      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#082F49" stroke="#38BDF8" stroke-width="3"/>
+      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">Python / pytest</text>
+      <text y="23" fill="#BAE6FD" font-size="16">tests, validation, failure reproduction</text>
+    </g>
+    <g transform="translate(1110 170)">
+      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#312E81" stroke="#8B5CF6" stroke-width="3"/>
+      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">AI Evaluation</text>
+      <text y="23" fill="#DDD6FE" font-size="16">task logic, rubrics, output QA</text>
+    </g>
+    <g transform="translate(300 368)">
+      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#064E3B" stroke="#10B981" stroke-width="3"/>
+      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">DevS69 SDETKit</text>
+      <text y="23" fill="#BBF7D0" font-size="16">release confidence and CI evidence</text>
+    </g>
+    <g transform="translate(1100 368)">
+      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#7C2D12" stroke="#FB923C" stroke-width="3"/>
+      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">Coding Benchmarks</text>
+      <text y="23" fill="#FED7AA" font-size="16">edge cases and reproducibility</text>
+    </g>
+    <g transform="translate(700 122)">
+      <rect x="-150" y="-45" width="300" height="90" rx="22" fill="#3B0764" stroke="#E879F9" stroke-width="3"/>
+      <text y="-4" fill="#FFFFFF" font-size="22" font-weight="850">CI Evidence</text>
+      <text y="25" fill="#F5D0FE" font-size="15">GitHub Actions · JSON · Markdown</text>
+    </g>
+    <g transform="translate(700 425)">
+      <rect x="-150" y="-45" width="300" height="90" rx="22" fill="#422006" stroke="#FACC15" stroke-width="3"/>
+      <text y="-4" fill="#FFFFFF" font-size="22" font-weight="850">LeetCode Discipline</text>
+      <text y="25" fill="#FEF3C7" font-size="15">runtime · memory · hidden tests</text>
+    </g>
   </g>
 </svg>
