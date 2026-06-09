@@ -1,36 +1,15 @@
-<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">LeetCode practice tracks</title>
-  <desc id="desc">Python main track, Pandas data track, and TypeScript support track.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111827"/><stop offset="1" stop-color="#0F172A"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="360" rx="28" fill="url(#bg)"/>
-  <text x="60" y="62" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">LeetCode practice system</text>
-  <text x="60" y="97" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="18">Deliberate practice for real engineering habits: correctness, hidden-test safety, runtime, and memory.</text>
-
-  <g font-family="Inter, Segoe UI, Arial">
-    <g transform="translate(70 135)">
-      <rect width="390" height="170" rx="26" fill="#0B3B6E" stroke="#38BDF8" stroke-width="3"/>
-      <text x="34" y="50" fill="#FFFFFF" font-size="30" font-weight="900">Python / Python3</text>
-      <text x="34" y="86" fill="#BAE6FD" font-size="18" font-weight="700">Main algorithm track</text>
-      <text x="34" y="120" fill="#E0F2FE" font-size="16">graphs · DP · heaps · design · cache</text>
-      <text x="34" y="147" fill="#E0F2FE" font-size="16">performance-aware Python habits</text>
-    </g>
-    <g transform="translate(505 135)">
-      <rect width="390" height="170" rx="26" fill="#3B0764" stroke="#E879F9" stroke-width="3"/>
-      <text x="34" y="50" fill="#FFFFFF" font-size="30" font-weight="900">Pandas</text>
-      <text x="34" y="86" fill="#F5D0FE" font-size="18" font-weight="700">DataFrame / database track</text>
-      <text x="34" y="120" fill="#FAE8FF" font-size="16">tables · logs · metrics · reports</text>
-      <text x="34" y="147" fill="#FAE8FF" font-size="16">schema correctness and vectorized thinking</text>
-    </g>
-    <g transform="translate(940 135)">
-      <rect width="390" height="170" rx="26" fill="#422006" stroke="#FACC15" stroke-width="3"/>
-      <text x="34" y="50" fill="#FFFFFF" font-size="30" font-weight="900">TypeScript</text>
-      <text x="34" y="86" fill="#FEF3C7" font-size="18" font-weight="700">Support track</text>
-      <text x="34" y="120" fill="#FFFBEB" font-size="16">typed APIs · closures · classes</text>
-      <text x="34" y="147" fill="#FFFBEB" font-size="16">JS/TS-specific LeetCode problems</text>
-    </g>
+<svg width="1400" height="240" viewBox="0 0 1400 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LeetCode practice tracks">
+  <rect width="1400" height="240" rx="28" fill="#0B1020"/>
+  <text x="700" y="42" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="900" fill="#F8FAFC">LeetCode Practice System</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="85" y="82" width="360" height="104" rx="22" fill="#0F172A" stroke="#3776AB" stroke-width="2"/>
+    <text x="265" y="122" text-anchor="middle" font-size="22" font-weight="900" fill="#DBEAFE">Python / Python3</text>
+    <text x="265" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#94A3B8">main algorithms · data structures · design</text>
+    <rect x="520" y="82" width="360" height="104" rx="22" fill="#0F172A" stroke="#150458" stroke-width="2"/>
+    <text x="700" y="122" text-anchor="middle" font-size="22" font-weight="900" fill="#EDE9FE">Pandas</text>
+    <text x="700" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#94A3B8">tables · logs · metrics · reports</text>
+    <rect x="955" y="82" width="360" height="104" rx="22" fill="#0F172A" stroke="#3178C6" stroke-width="2"/>
+    <text x="1135" y="122" text-anchor="middle" font-size="22" font-weight="900" fill="#DBEAFE">TypeScript</text>
+    <text x="1135" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#94A3B8">typed APIs · closures · JS/TS design</text>
   </g>
 </svg>

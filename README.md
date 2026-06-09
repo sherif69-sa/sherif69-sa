@@ -44,6 +44,10 @@ I work best where software behavior must be reproduced, tested, reviewed, and ex
 | **CI Evidence** | GitHub Actions review, command proof, JSON/Markdown artifacts |
 | **LeetCode Discipline** | algorithms, data structures, memory awareness, runtime tradeoffs |
 
+<p align="center">
+  <img src="./assets/capability_radar.svg" alt="Capability radar across Python, CI evidence, benchmark QA, LeetCode, AI evaluation, and repo review" width="100%" />
+</p>
+
 ---
 
 ## Flagship Project: DevS69 SDETKit
@@ -66,6 +70,17 @@ focused proof
 clear CI evidence
 professional repository operations
 reviewable output
+```
+
+### DevS69 SDETKit direction
+
+```mermaid
+flowchart LR
+  A[Repo reading] --> B[Evidence collection]
+  B --> C[Failure diagnosis]
+  C --> D[Proof commands]
+  D --> E[Review-first report]
+  E --> F[Safer engineering workflow]
 ```
 
 ---
@@ -95,6 +110,23 @@ Practical runtime fifth
 Micro-optimization last
 ```
 
+### Programming practice map
+
+```mermaid
+flowchart TD
+  LC[LeetCode practice] --> PY[Python / Python3 main track]
+  LC --> PD[Pandas data track]
+  LC --> TS[TypeScript support track]
+  PY --> A[Algorithms + data structures]
+  PY --> B[Design classes + performance habits]
+  PD --> C[Tables + logs + reports]
+  TS --> D[Typed APIs + JS/TS behavior]
+  A --> REAL[Better real-project debugging]
+  B --> REAL
+  C --> REAL
+  D --> REAL
+```
+
 ---
 
 ## Working Method
@@ -110,6 +142,18 @@ Micro-optimization last
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
 
+```mermaid
+sequenceDiagram
+  participant Task
+  participant Repo
+  participant Tests
+  participant Evidence
+  Task->>Repo: understand contract
+  Repo->>Tests: reproduce behavior
+  Tests->>Evidence: run focused validation
+  Evidence->>Task: report what is proven
+```
+
 ---
 
 ## Core Stack
@@ -118,6 +162,34 @@ This method applies to SDET work, AI evaluation, coding benchmark review, reposi
 Python · pytest · Pandas · Docker · Git · GitHub Actions
 CLI workflows · JSON evidence · Markdown reports · CI-style validation
 AI evaluation workflows · Coding benchmark review · Repository inspection
+```
+
+| Capability | Tools / habits |
+| --- | --- |
+| Test validation | Python, pytest, focused checks |
+| Task environments | Docker, CLI workflows, reproducible commands |
+| Review workflow | Git, GitHub, pull-request evidence |
+| Structured reports | JSON evidence, Markdown reports |
+| Data validation | Pandas, tabular checks, schema awareness |
+| AI evaluation | model-output review, task logic, source-grounded QA |
+
+---
+
+## Roadmap I Am Building Toward
+
+```mermaid
+gantt
+  title Portfolio Engineering Roadmap
+  dateFormat  YYYY-MM-DD
+  section Current
+  Python SDET portfolio alignment       :done, 2026-06-01, 10d
+  DevS69 SDETKit evidence workflow      :active, 2026-06-05, 20d
+  section Next
+  Failure diagnosis and reporting       :2026-06-20, 30d
+  LeetCode Python/Pandas discipline     :2026-06-10, 60d
+  section Later
+  Multi-language validation examples    :2026-08-01, 45d
+  Recruiter-ready engineering portfolio :2026-08-15, 45d
 ```
 
 ---
