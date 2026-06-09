@@ -1,68 +1,65 @@
-<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">DevS69 SDETKit product roadmap</title>
-  <desc id="desc">Roadmap from evidence core to local-first reliability platform.</desc>
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DevS69 SDETKit product roadmap">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#07101D"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <linearGradient id="rail" x1="120" y1="295" x2="1160" y2="295"><stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#22C55E"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
-    <style>
-      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:850;fill:#93C5FD;letter-spacing:.11em;text-transform:uppercase}
-      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:34px;font-weight:850;fill:#F8FAFC;letter-spacing:-.02em}
-      .p{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:17px;font-weight:530;fill:#CBD5E1}
-      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:18px;font-weight:850;fill:#F8FAFC}
-      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13.5px;font-weight:550;fill:#94A3B8}
-      .num{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;font-weight:900;fill:#020617}
-    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="92" y1="222" x2="1110" y2="222">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
   </defs>
-  <rect width="1280" height="560" rx="24" fill="url(#bg)"/>
-  <text x="70" y="70" class="k">DevS69 SDETKit roadmap</text>
-  <text x="70" y="114" class="h">Local-first reliability platform for noisy CI and terminal behavior.</text>
-  <text x="70" y="150" class="p">The roadmap starts with deterministic artifacts and proof, then grows toward safe, verifier-protected remediation.</text>
-  <rect x="70" y="190" width="1140" height="286" rx="24" fill="#020617" opacity="0.54" stroke="#1E293B"/>
-  <path d="M136 321H1144" stroke="url(#rail)" stroke-width="6" stroke-linecap="round"/>
+  <rect width="1200" height="470" rx="26" fill="url(#bg)"/>
+  <text x="60" y="58" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="850">DevS69 SDETKit product roadmap</text>
+  <text x="60" y="90" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">A local-first reliability platform path: diagnose first, preserve review, prove outcomes, then remember what happened.</text>
 
-  <g transform="translate(96 240)">
-    <rect x="0" y="0" width="174" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#38BDF8"/><text x="23" y="35" class="num">1</text>
-    <text x="22" y="66" class="t">Evidence Core</text>
-    <text x="22" y="98" class="s">logs · commands</text>
-    <text x="22" y="120" class="s">CI metadata · artifacts</text>
-  </g>
-  <g transform="translate(286 240)">
-    <rect x="0" y="0" width="184" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#60A5FA"/><text x="23" y="35" class="num">2</text>
-    <text x="22" y="66" class="t">FailureVector</text>
-    <text x="22" y="98" class="s">first real failure</text>
-    <text x="22" y="120" class="s">class · scope · risk</text>
-  </g>
-  <g transform="translate(486 240)">
-    <rect x="0" y="0" width="174" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#22C55E"/><text x="23" y="35" class="num">3</text>
-    <text x="22" y="66" class="t">SafetyGate</text>
-    <text x="22" y="98" class="s">review-first unknowns</text>
-    <text x="22" y="120" class="s">scope boundaries</text>
-  </g>
-  <g transform="translate(676 240)">
-    <rect x="0" y="0" width="190" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#A78BFA"/><text x="23" y="35" class="num">4</text>
-    <text x="22" y="66" class="t">TrajectoryStore</text>
-    <text x="22" y="98" class="s">action → response</text>
-    <text x="22" y="120" class="s">diagnosis → proof</text>
-  </g>
-  <g transform="translate(882 240)">
-    <rect x="0" y="0" width="178" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#FBBF24"/><text x="23" y="35" class="num">5</text>
-    <text x="22" y="66" class="t">Benchmark</text>
-    <text x="22" y="98" class="s">nop · oracle</text>
-    <text x="22" y="120" class="s">unsafe checks</text>
-  </g>
-  <g transform="translate(1076 240)">
-    <rect x="0" y="0" width="104" height="150" rx="18" fill="#0F172A" stroke="#334155"/>
-    <circle cx="28" cy="30" r="14" fill="#F59E0B"/><text x="23" y="35" class="num">6</text>
-    <text x="22" y="66" class="t">Verify</text>
-    <text x="22" y="98" class="s">PR</text>
-    <text x="22" y="120" class="s">reports</text>
-  </g>
+  <path d="M95 232H1105" stroke="url(#flow)" stroke-width="5" stroke-linecap="round"/>
 
-  <rect x="70" y="500" width="1140" height="38" rx="14" fill="#020617" opacity="0.72" stroke="#1E293B"/>
-  <text x="98" y="524" class="s">Boundary: unknown, security, dependency, release, and broad refactor failures remain review-first until proof and verifier contracts are mature.</text>
+  <g>
+    <circle cx="120" cy="232" r="14" fill="#0EA5E9"/>
+    <rect x="60" y="128" width="180" height="76" rx="18" fill="#FFFFFF" stroke="#BAE6FD"/>
+    <text x="84" y="158" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Evidence Core</text>
+    <text x="84" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">logs · commands · CI</text>
+    <rect x="60" y="260" width="180" height="80" rx="18" fill="#FFFFFF" stroke="#BAE6FD"/>
+    <text x="84" y="291" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Artifact proof</text>
+    <text x="84" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">JSON · Markdown · reports</text>
+
+    <circle cx="316" cy="232" r="14" fill="#2563EB"/>
+    <rect x="256" y="128" width="188" height="76" rx="18" fill="#FFFFFF" stroke="#BFDBFE"/>
+    <text x="280" y="158" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">FailureVectorEngine</text>
+    <text x="280" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">first failure · class · scope</text>
+    <rect x="256" y="260" width="188" height="80" rx="18" fill="#FFFFFF" stroke="#BFDBFE"/>
+    <text x="280" y="291" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Operator diagnosis</text>
+    <text x="280" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">what failed and why</text>
+
+    <circle cx="512" cy="232" r="14" fill="#6366F1"/>
+    <rect x="452" y="128" width="188" height="76" rx="18" fill="#FFFFFF" stroke="#C7D2FE"/>
+    <text x="476" y="158" fill="#4338CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">SafetyGate</text>
+    <text x="476" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">safe vs review-first</text>
+    <rect x="452" y="260" width="188" height="80" rx="18" fill="#FFFFFF" stroke="#C7D2FE"/>
+    <text x="476" y="291" fill="#4338CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Boundary policy</text>
+    <text x="476" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">unknown stays human-owned</text>
+
+    <circle cx="708" cy="232" r="14" fill="#7C3AED"/>
+    <rect x="648" y="128" width="206" height="76" rx="18" fill="#FFFFFF" stroke="#DDD6FE"/>
+    <text x="672" y="158" fill="#6D28D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">TrajectoryStore</text>
+    <text x="672" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">action → response → proof</text>
+    <rect x="648" y="260" width="206" height="80" rx="18" fill="#FFFFFF" stroke="#DDD6FE"/>
+    <text x="672" y="291" fill="#6D28D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">RepoMemory</text>
+    <text x="672" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">learn recurring patterns</text>
+
+    <circle cx="904" cy="232" r="14" fill="#059669"/>
+    <rect x="844" y="128" width="212" height="76" rx="18" fill="#FFFFFF" stroke="#BBF7D0"/>
+    <text x="868" y="158" fill="#047857" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">ReplayableHarness</text>
+    <text x="868" y="184" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">nop · oracle · unsafe cases</text>
+    <rect x="844" y="260" width="212" height="80" rx="18" fill="#FFFFFF" stroke="#BBF7D0"/>
+    <text x="868" y="291" fill="#047857" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">ProtectedVerifier</text>
+    <text x="868" y="317" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">prove without weakening gates</text>
+
+    <circle cx="1080" cy="232" r="14" fill="#0F766E"/>
+    <rect x="988" y="368" width="152" height="58" rx="18" fill="#0F172A"/>
+    <text x="1015" y="394" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">PRReporter</text>
+    <text x="1015" y="416" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">exact next action</text>
+  </g>
 </svg>

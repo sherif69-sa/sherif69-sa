@@ -19,7 +19,7 @@ Clone → Reproduce → Inspect → Test → Report
 ```
 
 <p align="center">
-  <img src="./assets/executive_snapshot.svg" alt="Executive portfolio snapshot" width="100%" />
+  <img src="./assets/portfolio_system.svg" alt="Portfolio operating system overview" width="100%" />
 </p>
 
 ---
@@ -62,6 +62,16 @@ The long-term direction is a local-first reliability platform that helps maintai
 | **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
 | **ReplayableBenchmarkHarness** | test no-op, oracle, and unsafe repair scenarios |
 | **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
+
+### Why this project matters
+
+DevS69 SDETKit reflects the way I want engineering work to be done:
+
+- small, reviewable changes
+- focused proof before broad claims
+- CI-style evidence instead of vague status
+- professional repository operations
+- reports another engineer can review
 
 ---
 
