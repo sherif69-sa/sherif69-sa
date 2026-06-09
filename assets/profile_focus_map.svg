@@ -1,0 +1,25 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sherif Atef focus map">
+  <rect width="1200" height="390" rx="28" fill="#0B1120"/>
+  <text x="70" y="62" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Professional focus map</text>
+  <text x="70" y="92" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Python SDET · AI Evaluation · Coding Benchmark QA · CI evidence</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="70" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="100" y="176" fill="#93C5FD" font-size="22" font-weight="800">SDET Validation</text>
+    <text x="100" y="214" fill="#E5E7EB" font-size="16">pytest · Docker · Git</text>
+    <text x="100" y="244" fill="#E5E7EB" font-size="16">failure reproduction</text>
+    <text x="100" y="274" fill="#E5E7EB" font-size="16">test and fix validation</text>
+
+    <rect x="440" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="470" y="176" fill="#C4B5FD" font-size="22" font-weight="800">AI Evaluation</text>
+    <text x="470" y="214" fill="#E5E7EB" font-size="16">task contract review</text>
+    <text x="470" y="244" fill="#E5E7EB" font-size="16">model output validation</text>
+    <text x="470" y="274" fill="#E5E7EB" font-size="16">source-grounded QA</text>
+
+    <rect x="810" y="132" width="320" height="190" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="840" y="176" fill="#86EFAC" font-size="22" font-weight="800">Engineering Evidence</text>
+    <text x="840" y="214" fill="#E5E7EB" font-size="16">CI-style checks</text>
+    <text x="840" y="244" fill="#E5E7EB" font-size="16">JSON / Markdown reports</text>
+    <text x="840" y="274" fill="#E5E7EB" font-size="16">review-first proof</text>
+  </g>
+</svg>
