@@ -18,19 +18,23 @@ I work best where software behavior must be reproduced, tested, reviewed, and ex
 Clone → Reproduce → Inspect → Test → Report
 ```
 
+<p align="center">
+  <img src="./assets/executive_snapshot.svg" alt="Executive portfolio snapshot" width="100%" />
+</p>
+
 ---
 
 ## Professional Signal
 
 <p align="center">
-  <img src="./assets/profile_system.svg" alt="Professional capability system" width="100%" />
+  <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
 </p>
 
 | Area | Practical focus |
 | --- | --- |
 | **Python SDET** | pytest validation, failure reproduction, test and fix review |
 | **AI Evaluation** | model-output review, task logic, rubric alignment, source-grounded QA |
-| **Coding Benchmark QA** | edge cases, expected behavior, reference checks, reproducibility risks |
+| **Coding Benchmark QA** | hidden edge cases, expected behavior, reference checks, reproducibility risks |
 | **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
 | **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
 
@@ -45,7 +49,7 @@ It is an evidence-first Python SDET toolkit for release confidence, CI workflow 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_operating_map.svg" alt="DevS69 SDETKit operating roadmap" width="100%" />
+  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
 </p>
 
 The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
@@ -68,7 +72,7 @@ LeetCode is part of my long-term programming discipline. I use it to strengthen 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_practice_grid.svg" alt="LeetCode practice grid" width="100%" />
+  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
 </p>
 
 | Track | Purpose |
@@ -90,14 +94,9 @@ Micro-optimization last
 
 ## Working Method
 
-```text
-01 Understand the task contract
-02 Reproduce the behavior
-03 Inspect the implementation
-04 Run focused validation
-05 Compare expected vs actual behavior
-06 Document the evidence
-```
+<p align="center">
+  <img src="./assets/operating_model.svg" alt="Working method from task contract to documented evidence" width="100%" />
+</p>
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
 

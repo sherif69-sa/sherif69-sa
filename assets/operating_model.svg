@@ -1,0 +1,44 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Working method</title>
+  <desc id="desc">Working method from task contract to documented evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360"><stop stop-color="#07101D"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>
+      .k{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:14px;font-weight:850;fill:#93C5FD;letter-spacing:.11em;text-transform:uppercase}
+      .h{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:32px;font-weight:850;fill:#F8FAFC;letter-spacing:-.02em}
+      .t{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:16px;font-weight:850;fill:#F8FAFC}
+      .s{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;font-weight:550;fill:#94A3B8}
+      .num{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;font-weight:900;fill:#020617}
+    </style>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <text x="70" y="70" class="k">Working method</text>
+  <text x="70" y="112" class="h">From unclear behavior to reviewable proof.</text>
+  <g transform="translate(72 168)">
+    <path d="M50 60H1080" stroke="#334155" stroke-width="2"/>
+    <g>
+      <circle cx="52" cy="60" r="24" fill="#38BDF8"/><text x="47" y="65" class="num">1</text>
+      <text x="0" y="118" class="t">Contract</text><text x="0" y="142" class="s">understand the task</text>
+    </g>
+    <g transform="translate(210 0)">
+      <circle cx="52" cy="60" r="24" fill="#60A5FA"/><text x="47" y="65" class="num">2</text>
+      <text x="0" y="118" class="t">Reproduce</text><text x="0" y="142" class="s">make behavior visible</text>
+    </g>
+    <g transform="translate(420 0)">
+      <circle cx="52" cy="60" r="24" fill="#22C55E"/><text x="47" y="65" class="num">3</text>
+      <text x="0" y="118" class="t">Inspect</text><text x="0" y="142" class="s">read implementation</text>
+    </g>
+    <g transform="translate(630 0)">
+      <circle cx="52" cy="60" r="24" fill="#A78BFA"/><text x="47" y="65" class="num">4</text>
+      <text x="0" y="118" class="t">Validate</text><text x="0" y="142" class="s">run focused proof</text>
+    </g>
+    <g transform="translate(840 0)">
+      <circle cx="52" cy="60" r="24" fill="#FBBF24"/><text x="47" y="65" class="num">5</text>
+      <text x="0" y="118" class="t">Compare</text><text x="0" y="142" class="s">expected vs actual</text>
+    </g>
+    <g transform="translate(1050 0)">
+      <circle cx="52" cy="60" r="24" fill="#F59E0B"/><text x="47" y="65" class="num">6</text>
+      <text x="0" y="118" class="t">Report</text><text x="0" y="142" class="s">document evidence</text>
+    </g>
+  </g>
+</svg>
