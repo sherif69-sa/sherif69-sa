@@ -1,64 +1,43 @@
-<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sherif Atef professional focus map</title>
-  <desc id="desc">Map connecting Python SDET, AI evaluation, coding benchmark QA, CI evidence, LeetCode practice, and DevS69 SDETKit.</desc>
+<svg width="1400" height="280" viewBox="0 0 1400 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio signal map">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1120"/><stop offset="1" stop-color="#1E1B4B"/>
-    </linearGradient>
-    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="280">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
   </defs>
-  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
-  <text x="60" y="62" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial" font-size="32" font-weight="800">Portfolio signal map</text>
-  <text x="60" y="98" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="18">The same habits connect my CV, GitHub project, LeetCode practice, and AI evaluation work.</text>
+  <rect width="1400" height="280" rx="28" fill="url(#bg)"/>
+  <text x="700" y="42" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="900" fill="#F8FAFC">Portfolio Signal Map</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <circle cx="700" cy="150" r="58" fill="#172554" stroke="#38BDF8" stroke-width="2"/>
+    <text x="700" y="142" text-anchor="middle" font-size="17" font-weight="900" fill="#E0F2FE">Sherif Atef</text>
+    <text x="700" y="166" text-anchor="middle" font-size="13" font-weight="700" fill="#94A3B8">Python SDET · AI Evaluation</text>
 
-  <g stroke="#334155" stroke-width="3" opacity="0.95">
-    <path d="M700 260L290 170"/>
-    <path d="M700 260L1110 170"/>
-    <path d="M700 260L300 368"/>
-    <path d="M700 260L1100 368"/>
-    <path d="M700 260L700 122"/>
-    <path d="M700 260L700 418"/>
-  </g>
+    <g font-size="16" font-weight="800">
+      <rect x="70" y="92" width="245" height="76" rx="20" fill="#0F172A" stroke="#38BDF8"/>
+      <text x="192" y="123" text-anchor="middle" fill="#E0F2FE">Python SDET</text>
+      <text x="192" y="149" text-anchor="middle" font-size="12" fill="#94A3B8">pytest · failure reproduction</text>
 
-  <g font-family="Inter, Segoe UI, Arial" text-anchor="middle">
-    <g transform="translate(700 260)">
-      <circle r="92" fill="url(#node)" opacity="0.96"/>
-      <text y="-12" fill="#FFFFFF" font-size="28" font-weight="900">Sherif Atef</text>
-      <text y="22" fill="#EEF2FF" font-size="18" font-weight="700">Python SDET</text>
-      <text y="48" fill="#EEF2FF" font-size="18" font-weight="700">AI Evaluation</text>
-    </g>
+      <rect x="360" y="174" width="245" height="76" rx="20" fill="#0F172A" stroke="#A78BFA"/>
+      <text x="482" y="205" text-anchor="middle" fill="#EDE9FE">AI Evaluation</text>
+      <text x="482" y="231" text-anchor="middle" font-size="12" fill="#94A3B8">rubrics · source-grounded QA</text>
 
-    <g transform="translate(290 170)">
-      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#082F49" stroke="#38BDF8" stroke-width="3"/>
-      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">Python / pytest</text>
-      <text y="23" fill="#BAE6FD" font-size="16">tests, validation, failure reproduction</text>
+      <rect x="795" y="174" width="245" height="76" rx="20" fill="#0F172A" stroke="#22C55E"/>
+      <text x="918" y="205" text-anchor="middle" fill="#DCFCE7">Coding Benchmark QA</text>
+      <text x="918" y="231" text-anchor="middle" font-size="12" fill="#94A3B8">edge cases · reproducibility</text>
+
+      <rect x="1085" y="92" width="245" height="76" rx="20" fill="#0F172A" stroke="#F59E0B"/>
+      <text x="1208" y="123" text-anchor="middle" fill="#FEF3C7">CI Evidence</text>
+      <text x="1208" y="149" text-anchor="middle" font-size="12" fill="#94A3B8">GitHub Actions · JSON reports</text>
+
+      <rect x="510" y="64" width="380" height="52" rx="18" fill="#111827" stroke="#FB7185"/>
+      <text x="700" y="97" text-anchor="middle" fill="#FFE4E6">DevS69 SDETKit · LeetCode Discipline</text>
     </g>
-    <g transform="translate(1110 170)">
-      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#312E81" stroke="#8B5CF6" stroke-width="3"/>
-      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">AI Evaluation</text>
-      <text y="23" fill="#DDD6FE" font-size="16">task logic, rubrics, output QA</text>
-    </g>
-    <g transform="translate(300 368)">
-      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#064E3B" stroke="#10B981" stroke-width="3"/>
-      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">DevS69 SDETKit</text>
-      <text y="23" fill="#BBF7D0" font-size="16">release confidence and CI evidence</text>
-    </g>
-    <g transform="translate(1100 368)">
-      <rect x="-150" y="-55" width="300" height="110" rx="24" fill="#7C2D12" stroke="#FB923C" stroke-width="3"/>
-      <text y="-8" fill="#FFFFFF" font-size="23" font-weight="850">Coding Benchmarks</text>
-      <text y="23" fill="#FED7AA" font-size="16">edge cases and reproducibility</text>
-    </g>
-    <g transform="translate(700 122)">
-      <rect x="-150" y="-45" width="300" height="90" rx="22" fill="#3B0764" stroke="#E879F9" stroke-width="3"/>
-      <text y="-4" fill="#FFFFFF" font-size="22" font-weight="850">CI Evidence</text>
-      <text y="25" fill="#F5D0FE" font-size="15">GitHub Actions · JSON · Markdown</text>
-    </g>
-    <g transform="translate(700 425)">
-      <rect x="-150" y="-45" width="300" height="90" rx="22" fill="#422006" stroke="#FACC15" stroke-width="3"/>
-      <text y="-4" fill="#FFFFFF" font-size="22" font-weight="850">LeetCode Discipline</text>
-      <text y="25" fill="#FEF3C7" font-size="15">runtime · memory · hidden tests</text>
+    <g stroke="#475569" stroke-width="2" opacity=".8">
+      <path d="M315 130 C450 130 540 146 642 150"/>
+      <path d="M605 212 C640 190 658 174 676 158"/>
+      <path d="M795 212 C760 190 742 174 724 158"/>
+      <path d="M1085 130 C950 130 860 146 758 150"/>
+      <path d="M700 116 V92"/>
     </g>
   </g>
 </svg>
