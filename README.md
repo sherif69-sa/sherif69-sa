@@ -23,7 +23,7 @@ Clone → Reproduce → Inspect → Test → Report
 ## Professional Signal
 
 <p align="center">
-  <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
+  <img src="./assets/profile_system.svg" alt="Professional capability system" width="100%" />
 </p>
 
 | Area | Practical focus |
@@ -45,20 +45,18 @@ It is an evidence-first Python SDET toolkit for release confidence, CI workflow 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
+  <img src="./assets/devs69_operating_map.svg" alt="DevS69 SDETKit operating roadmap" width="100%" />
 </p>
 
 The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
 
-Current product direction:
-
-| Layer | Purpose |
+| Product layer | What it is meant to do |
 | --- | --- |
-| **Evidence Core** | collect logs, command output, CI metadata, and artifacts |
-| **FailureVectorEngine** | extract first real failure and classify the failure surface |
-| **SafetyGate** | keep unknown or risky changes review-first |
+| **Evidence Core** | collect logs, command output, CI metadata, artifacts, and proof surfaces |
+| **FailureVectorEngine** | extract the first real failure and classify the failure surface |
+| **SafetyGate** | keep unknown, broad, security, release, and dependency work review-first |
 | **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
-| **ReplayableBenchmarkHarness** | test nop/oracle/unsafe repair scenarios |
+| **ReplayableBenchmarkHarness** | test no-op, oracle, and unsafe repair scenarios |
 | **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
 
 ---
@@ -70,7 +68,7 @@ LeetCode is part of my long-term programming discipline. I use it to strengthen 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
+  <img src="./assets/leetcode_practice_grid.svg" alt="LeetCode practice grid" width="100%" />
 </p>
 
 | Track | Purpose |
