@@ -1,13 +1,17 @@
-<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1280" height="330" rx="30" fill="#07111F"/>
-<text x="48" y="56" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Reviewer Briefing</text>
-<text x="48" y="86" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">The short version for recruiters, maintainers, and technical reviewers.</text>
-<rect x="48" y="126" width="560" height="146" rx="26" fill="#0C1A2B" stroke="#2A4B6B"/>
-<text x="82" y="166" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="900">Role fit</text>
-<text x="82" y="202" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Python SDET · AI Evaluation Engineer · Coding Benchmark QA</text>
-<text x="82" y="234" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">Best signal: evidence-first validation and public DevS69 work.</text>
-<rect x="672" y="126" width="560" height="146" rx="26" fill="#0C1A2B" stroke="#2A4B6B"/>
-<text x="706" y="166" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="900">Why contact me?</text>
-<text x="706" y="202" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">I can help validate failures, AI code outputs, PR readiness,</text>
-<text x="706" y="234" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">benchmark tasks, CI evidence, and repository quality surfaces.</text>
+<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="300" rx="30" fill="#0B1220"/>
+  <text x="52" y="58" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="860" text-anchor="start">Reviewer Briefing</text>
+  <text x="52" y="88" fill="#B8C7D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start">If you only read one section, this is the decision summary.</text>
+  <rect x="52" y="126" width="260" height="96" rx="22" fill="#101B2D" stroke="#284866" stroke-width="1"/>
+  <text x="78" y="162" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="820" text-anchor="start">Role fit</text>
+  <text x="78" y="191" fill="#C6D7E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">Python SDET · AI Evaluation</text>
+  <rect x="334" y="126" width="260" height="96" rx="22" fill="#101B2D" stroke="#1C6D7F" stroke-width="1"/>
+  <text x="360" y="162" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="820" text-anchor="start">Public proof</text>
+  <text x="360" y="191" fill="#C6D7E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">DevS69 SDETKit</text>
+  <rect x="616" y="126" width="260" height="96" rx="22" fill="#101B2D" stroke="#7C3AED" stroke-width="1"/>
+  <text x="642" y="162" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="820" text-anchor="start">Method</text>
+  <text x="642" y="191" fill="#C6D7E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">Evidence before claims</text>
+  <rect x="898" y="126" width="330" height="96" rx="22" fill="#101B2D" stroke="#C78A16" stroke-width="1"/>
+  <text x="924" y="162" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="820" text-anchor="start">Best conversation</text>
+  <text x="924" y="191" fill="#C6D7E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">test reliability · coding benchmark QA · CI evidence</text>
 </svg>

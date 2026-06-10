@@ -1,8 +1,14 @@
-<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1280" height="300" rx="30" fill="#07111F"/>
-<text x="48" y="56" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Practice Engine</text>
-<text x="48" y="86" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Programming practice used as engineering discipline, not decoration.</text>
-<rect x="48" y="126" width="350" height="104" rx="24" fill="#101F33" stroke="#2F80ED"/><text x="78" y="165" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="900">Python / Python3</text><text x="78" y="197" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">algorithms · data structures · runtime tradeoffs</text>
-<rect x="464" y="126" width="350" height="104" rx="24" fill="#10272D" stroke="#17C4B8"/><text x="494" y="165" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="900">Pandas</text><text x="494" y="197" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">dataframes · evidence tables · reports</text>
-<rect x="880" y="126" width="350" height="104" rx="24" fill="#2A2315" stroke="#E5A433"/><text x="910" y="165" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="900">TypeScript</text><text x="910" y="197" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">typed APIs · JS/TS-specific implementation clarity</text>
+<svg width="1280" height="290" viewBox="0 0 1280 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="290" rx="30" fill="#F7FAFC"/>
+  <text x="52" y="58" fill="#0B1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="860" text-anchor="start">Practice Engine</text>
+  <text x="52" y="88" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start">Programming practice as engineering discipline: correctness, hidden tests, memory, and implementation clarity.</text>
+  <rect x="52" y="128" width="350" height="94" rx="22" fill="#FFFFFF" stroke="#BFD3FF" stroke-width="1"/>
+  <text x="80" y="165" fill="#2563EB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="820" text-anchor="start">Python / Python3</text>
+  <text x="80" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">main track for algorithms, structures, and design</text>
+  <rect x="466" y="128" width="350" height="94" rx="22" fill="#FFFFFF" stroke="#B5ECE8" stroke-width="1"/>
+  <text x="494" y="165" fill="#0891B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="820" text-anchor="start">Pandas</text>
+  <text x="494" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">dataframes, evidence tables, reports, logs</text>
+  <rect x="880" y="128" width="348" height="94" rx="22" fill="#FFFFFF" stroke="#F1D29C" stroke-width="1"/>
+  <text x="908" y="165" fill="#C78A16" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="820" text-anchor="start">TypeScript</text>
+  <text x="908" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">support track for APIs, closures, classes, JS/TS</text>
 </svg>
