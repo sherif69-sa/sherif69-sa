@@ -1,14 +1,10 @@
-<svg width="1280" height="210" viewBox="0 0 1280 210" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="210" rx="28" fill="#08111F"/>
-  <circle cx="1080" cy="110" r="180" fill="#2F80ED" fill-opacity="0.08"/>
-  <text x="46" y="54" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">Contact</text>
-  <text x="46" y="86" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Open to Python SDET, AI evaluation, coding benchmark QA, and reliability engineering conversations.</text>
-  <rect x="46" y="118" width="280" height="48" rx="16" fill="#0E1B2B" stroke="#2F80ED"/>
-  <text x="68" y="149" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">GitHub: sherif69-sa</text>
-  <rect x="354" y="118" width="300" height="48" rx="16" fill="#0E1B2B" stroke="#17C4B8"/>
-  <text x="376" y="149" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">LinkedIn: /in/devs69</text>
-  <rect x="682" y="118" width="270" height="48" rx="16" fill="#0E1B2B" stroke="#E5A433"/>
-  <text x="704" y="149" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">LeetCode: sherif69</text>
-  <rect x="980" y="118" width="250" height="48" rx="16" fill="#0E1B2B" stroke="#8E63E4"/>
-  <text x="1002" y="149" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">Email available below</text>
+<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="220" rx="30" fill="#07111F"/>
+<circle cx="1100" cy="110" r="190" fill="#2F80ED" fill-opacity="0.08"/>
+<text x="48" y="62" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Contact</text>
+<text x="48" y="96" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">Open to Python SDET, AI evaluation, coding benchmark QA, and reliability engineering conversations.</text>
+<rect x="48" y="130" width="230" height="34" rx="17" fill="#0A1A2C" stroke="#2F80ED"/><text x="66" y="152" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">GitHub: sherif69-sa</text>
+<rect x="306" y="130" width="240" height="34" rx="17" fill="#0A1A2C" stroke="#17C4B8"/><text x="324" y="152" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">LinkedIn: /in/devs69</text>
+<rect x="574" y="130" width="218" height="34" rx="17" fill="#0A1A2C" stroke="#E5A433"/><text x="592" y="152" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">LeetCode: sherif69</text>
+<rect x="820" y="130" width="360" height="34" rx="17" fill="#0A1A2C" stroke="#8E63E4"/><text x="838" y="152" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Email: sherif.atef6300@gmail.com</text>
 </svg>

@@ -1,0 +1,13 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="330" rx="30" fill="#07111F"/>
+<text x="48" y="56" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Reviewer Briefing</text>
+<text x="48" y="86" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">The short version for recruiters, maintainers, and technical reviewers.</text>
+<rect x="48" y="126" width="560" height="146" rx="26" fill="#0C1A2B" stroke="#2A4B6B"/>
+<text x="82" y="166" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="900">Role fit</text>
+<text x="82" y="202" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Python SDET · AI Evaluation Engineer · Coding Benchmark QA</text>
+<text x="82" y="234" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">Best signal: evidence-first validation and public DevS69 work.</text>
+<rect x="672" y="126" width="560" height="146" rx="26" fill="#0C1A2B" stroke="#2A4B6B"/>
+<text x="706" y="166" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="900">Why contact me?</text>
+<text x="706" y="202" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">I can help validate failures, AI code outputs, PR readiness,</text>
+<text x="706" y="234" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">benchmark tasks, CI evidence, and repository quality surfaces.</text>
+</svg>
