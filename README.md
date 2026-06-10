@@ -12,14 +12,16 @@
   <a href="https://leetcode.com/u/sherif69/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sherif69-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
 </p>
 
-## Evidence-first engineering profile
+## Python SDET & AI Evaluation Engineer
 
-I build **evidence-first validation systems** for code, CI, repositories, and AI-generated outputs.
+<p align="center"><sub><b>Theme-aware portfolio:</b> GitHub automatically serves the light or dark visual set based on your appearance setting.</sub></p>
 
-My work focuses on reproducing failures, extracting exact signals, validating behavior, and turning noisy engineering output into reviewable decisions.
+I work on the proof layer between failing systems and safe engineering decisions.
+
+My focus is simple: find the first real signal, explain what it proves, protect the review boundary, and attach the command or artifact that verifies the decision.
 
 ```text
-Clone → Reproduce → Inspect → Prove → Report
+signal → failure vector → safety decision → proof command → reviewer-ready report
 ```
 
 ---
