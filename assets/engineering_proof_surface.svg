@@ -1,0 +1,25 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="430" rx="30" fill="#07111F"/>
+<text x="48" y="56" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Engineering Proof Surface</text>
+<text x="48" y="86" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">The profile should prove how I think: exact signal, safe boundary, focused proof.</text>
+<rect x="48" y="126" width="560" height="236" rx="24" fill="#0B1728" stroke="#2D526F"/>
+<rect x="48" y="126" width="560" height="44" rx="24" fill="#10233A"/>
+<text x="76" y="154" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="850">root_cause_card</text>
+<text x="78" y="201" fill="#88D8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">classification = test_failure</text>
+<text x="78" y="232" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">actual_failure = first real failed contract</text>
+<text x="78" y="263" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">safe_fix_allowed = review_first unless proven</text>
+<text x="78" y="294" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">proof = focused command + quality gate</text>
+<text x="78" y="325" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">trajectory = action → response → proof</text>
+<rect x="664" y="126" width="250" height="104" rx="22" fill="#101F33" stroke="#2F80ED"/>
+<text x="692" y="163" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="900">1. Extract</text>
+<text x="692" y="194" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">first real failure</text>
+<rect x="952" y="126" width="250" height="104" rx="22" fill="#2A2315" stroke="#E5A433"/>
+<text x="980" y="163" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="900">2. Bound</text>
+<text x="980" y="194" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">safe vs review-first</text>
+<rect x="664" y="258" width="250" height="104" rx="22" fill="#10272D" stroke="#17C4B8"/>
+<text x="692" y="295" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="900">3. Prove</text>
+<text x="692" y="326" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">focused validation</text>
+<rect x="952" y="258" width="250" height="104" rx="22" fill="#191B31" stroke="#8E63E4"/>
+<text x="980" y="295" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="900">4. Report</text>
+<text x="980" y="326" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">next human action</text>
+</svg>
