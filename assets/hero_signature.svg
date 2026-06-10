@@ -1,0 +1,31 @@
+<svg width="1280" height="390" viewBox="0 0 1280 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06101D"/>
+      <stop offset="0.48" stop-color="#0A1D31"/>
+      <stop offset="1" stop-color="#12344F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="80" x2="1180" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F80ED"/>
+      <stop offset="0.5" stop-color="#17C4B8"/>
+      <stop offset="1" stop-color="#E5A433"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="390" rx="30" fill="url(#bg)"/>
+  <circle cx="1088" cy="86" r="170" fill="#2F80ED" fill-opacity="0.10"/>
+  <circle cx="1040" cy="330" r="240" fill="#17C4B8" fill-opacity="0.07"/>
+  <path d="M70 306 C260 210 335 338 510 236 C690 130 758 188 910 106 C1030 42 1120 58 1218 26" stroke="url(#line)" stroke-width="3" stroke-opacity="0.65"/>
+  <rect x="54" y="48" width="220" height="34" rx="17" fill="#102238" stroke="#2D4E70"/>
+  <text x="78" y="70" fill="#DDEBFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">SHERIF ATEF</text>
+  <text x="54" y="134" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="850">Evidence-first validation for code, CI, repositories, and AI outputs</text>
+  <text x="54" y="176" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Python SDET · AI Evaluation · Coding Benchmark QA · DevS69 SDETKit</text>
+  <rect x="54" y="224" width="548" height="92" rx="20" fill="#0D1B2C" stroke="#2B4F72"/>
+  <text x="80" y="258" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="650">I reproduce failures, extract exact signals, prove behavior, and turn noisy engineering output into reviewable decisions.</text>
+  <text x="80" y="288" fill="#88D8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">Clone → Reproduce → Inspect → Prove → Report</text>
+  <rect x="730" y="84" width="476" height="230" rx="24" fill="#0C1828" stroke="#2A4868"/>
+  <text x="760" y="122" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Profile signal</text>
+  <text x="760" y="158" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">• Public flagship: DevS69 SDETKit</text>
+  <text x="760" y="188" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">• Main stack: Python, pytest, Pandas, Docker, GitHub Actions</text>
+  <text x="760" y="218" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">• Focus: reliability, benchmark QA, evidence artifacts</text>
+  <text x="760" y="248" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">• Direction: FailureVectorEngine → SafetyGate → Verifier</text>
+</svg>
