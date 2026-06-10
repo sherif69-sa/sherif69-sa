@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_final.svg" alt="Sherif Atef — Python SDET and AI Evaluation Engineer" width="100%" />
+  <img src="./assets/hero_signature.svg" alt="Sherif Atef — Evidence-first validation for code, CI, repositories, and AI outputs" width="100%" />
 </p>
 
 <p align="center">
@@ -8,130 +8,138 @@
   <a href="https://leetcode.com/u/sherif69/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sherif69-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
 </p>
 
-## About
+## Evidence-first engineering profile
 
-I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
+I build **evidence-first validation systems** for code, CI, repositories, and AI-generated outputs.
 
-I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
+My work focuses on reproducing failures, extracting exact signals, validating behavior, and turning noisy engineering output into reviewable decisions.
 
 ```text
-Clone → Reproduce → Inspect → Test → Report
+Clone → Reproduce → Inspect → Prove → Report
 ```
 
 <p align="center">
-  <img src="./assets/portfolio_operating_system.svg" alt="Portfolio operating system" width="100%" />
+  <img src="./assets/professional_promise.svg" alt="Professional promise" width="100%" />
 </p>
 
 ---
 
-## Reviewer Signal Board
+## What I validate
 
 <p align="center">
-  <img src="./assets/reviewer_signal_board.svg" alt="Reviewer signal board" width="100%" />
+  <img src="./assets/validation_surfaces.svg" alt="Validation surfaces" width="100%" />
 </p>
 
-| Signal | What it tells a reviewer |
+| Surface | What I look for |
 | --- | --- |
-| **Python SDET** | I care about deterministic proof, contract validation, and reviewable correctness |
-| **AI Evaluation** | I review outputs against task logic, rubric intent, and evidence, not vibes |
-| **Coding Benchmark QA** | I focus on hidden tests, edge cases, and expected behavior under constraints |
-| **CI Evidence** | I turn logs, checks, and workflow signals into concrete next actions |
-| **DevS69 SDETKit** | My flagship public project shows how I think about reliability and quality systems |
+| **Python tests** | correctness, hidden-test behavior, regression signals, focused proof |
+| **AI-generated code** | rubric alignment, task logic, hallucinated behavior, unsafe assumptions |
+| **CI failures** | first real failing line, failed step, owner files, exact next command |
+| **Repository quality** | public surface consistency, release readiness, workflow hygiene |
+| **Data artifacts** | Pandas tables, structured logs, JSON/Markdown evidence reports |
+| **PR readiness** | scope, proof, rollback, review-first safety boundaries |
 
 ---
 
-## Flagship Project — DevS69 SDETKit
+## Evidence artifact library
+
+<p align="center">
+  <img src="./assets/artifact_library.svg" alt="Evidence artifact library" width="100%" />
+</p>
+
+```text
+failure_vector:
+  check=<workflow/check>
+  command=<failed command>
+  first_failing_line=<exact signal>
+  failure_class=<formatter|lint|type|test|dependency|security|unknown>
+  safe_fix_candidate=<yes|no>
+```
+
+```text
+review_decision:
+  diagnosis=<what failed and why>
+  proof=<focused command>
+  blocked_actions=<what must not be changed>
+  next_human_action=<exact command or review step>
+```
+
+---
+
+## Flagship project — DevS69 SDETKit
 
 **DevS69 SDETKit** is my main public engineering project.
 
-It is an evidence-first Python SDET toolkit for release confidence, CI workflow governance, failure diagnosis, reproducible quality review, permission-review evidence, structured reporting, and review-first safety boundaries.
+It is a local-first reliability platform direction for Python SDET workflows, CI diagnosis, failure evidence, proof artifacts, safety gates, trajectory memory, and PR-quality reporting.
 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
+  <img src="./assets/devs69_platform_map.svg" alt="DevS69 SDETKit reliability platform map" width="100%" />
 </p>
 
-The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
-
-| Product layer | What it is meant to do |
+| Component | Product role |
 | --- | --- |
-| **Evidence Core** | Collect logs, command output, CI metadata, artifacts, and proof surfaces |
-| **FailureVectorEngine** | Extract the first real failure and classify the failure surface |
-| **SafetyGate** | Keep unknown, broad, security, release, and dependency work review-first |
-| **TrajectoryStore / RepoMemory** | Record action → response → diagnosis → proof → outcome |
-| **ReplayableBenchmarkHarness** | Test no-op, oracle, and unsafe repair scenarios |
-| **ProtectedVerifier / PRReporter** | Preserve proof integrity and render actionable reports |
-
-<details>
-<summary><strong>More on DevS69 direction</strong></summary>
-<br>
-The product direction follows a clear reliability stack: start with evidence, classify the real failure, keep risky changes review-first, record the trajectory, validate candidate behavior against replayable cases, and preserve proof integrity before reporting next action.
-</details>
+| **FailureVectorEngine** | extracts the first real failure and turns it into structured evidence |
+| **SafetyGate** | decides safe-fix eligibility and keeps unknown/risky work review-first |
+| **TrajectoryStore / RepoMemory** | records action → response → diagnosis → proof → outcome |
+| **ReplayableBenchmarkHarness** | evaluates no-op, oracle, and unsafe repair scenarios |
+| **ProtectedVerifier** | independently checks patch scope, proof validity, and anti-cheat boundaries |
+| **PRReporter / PatchScorer** | renders exact failure, safety decision, proof, next action, and repair score |
 
 ---
 
-## Evidence Artifact Stack
+## Practice engine
 
-<p align="center">
-  <img src="./assets/evidence_artifact_stack.svg" alt="Evidence artifact stack" width="100%" />
-</p>
-
-This stack represents the practical tools and artifact forms I use most often when validating behavior and documenting quality work.
-
----
-
-## LeetCode Practice System
-
-LeetCode is part of my long-term programming discipline. I use it to strengthen habits that transfer into real engineering work: choosing the right algorithm, reducing runtime and memory overhead, debugging hidden-test failures, and writing clean code under constraints.
+LeetCode is part of my long-term programming discipline. I use it to strengthen algorithmic judgment, hidden-test safety, runtime awareness, memory tradeoffs, and debugging speed.
 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
+  <img src="./assets/practice_engine.svg" alt="LeetCode and programming practice engine" width="100%" />
 </p>
 
 | Track | Purpose |
 | --- | --- |
-| **Python / Python3** | Main track for algorithms, data structures, design, graphs, DP, heaps, binary search, streams, and caches |
-| **Pandas** | DataFrame and database-style practice for tables, logs, metrics, reports, and structured artifacts |
-| **TypeScript** | Support track for JS/TS-specific problems, typed APIs, closures, classes, and frontend-style design |
+| **Python / Python3** | main algorithms and data-structure practice |
+| **Pandas** | dataframe, table, log, and reporting practice |
+| **TypeScript** | support track for typed APIs, closures, classes, and JS/TS-specific problems |
 
 ```text
-Correctness first
-Hidden-test safety second
-Optimal algorithm third
-Memory awareness fourth
-Practical runtime fifth
-Micro-optimization last
+Correctness → hidden-test safety → optimal algorithm → memory awareness → practical runtime
 ```
 
 ---
 
-## Working Method
+## Reviewer decision board
 
-1. Understand the task contract.
-2. Reproduce the behavior.
-3. Inspect the implementation.
-4. Run focused validation.
-5. Compare expected vs actual behavior.
-6. Document the evidence.
+<p align="center">
+  <img src="./assets/reviewer_decision_board.svg" alt="Reviewer decision board" width="100%" />
+</p>
 
-This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
+A reviewer should be able to read this profile and quickly understand:
+
+```text
+role_fit=Python SDET / AI Evaluation / Coding Benchmark QA
+public_project=DevS69 SDETKit
+working_method=evidence-first validation
+practice_system=Python + Pandas + TypeScript
+professional_signal=proof before claims
+```
 
 ---
 
-## Core Stack
+## Core stack
 
 ```text
 Python · pytest · Pandas · Docker · Git · GitHub Actions
 CLI workflows · JSON evidence · Markdown reports · CI-style validation
-AI evaluation workflows · Coding benchmark review · Repository inspection
+AI evaluation workflows · coding benchmark review · repository inspection
 ```
 
 ---
 
-## Target Roles
+## Target roles
 
 - Python SDET
 - AI Evaluation Engineer
@@ -143,7 +151,9 @@ AI evaluation workflows · Coding benchmark review · Repository inspection
 
 ---
 
-## Contact
+<p align="center">
+  <img src="./assets/contact_panel.svg" alt="Contact panel" width="100%" />
+</p>
 
 - LinkedIn: **https://www.linkedin.com/in/devs69/**
 - GitHub: **https://github.com/sherif69-sa**
