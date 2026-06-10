@@ -6,60 +6,37 @@
   <a href="https://github.com/sherif69-sa"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sherif69--sa-181717?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/devs69/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devs69-0A66C2?style=flat-square&logo=linkedin"></a>
   <a href="https://leetcode.com/u/sherif69/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sherif69-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
-  <a href="mailto:sherif.atef6300@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-334155?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ## About
 
-I am **Sherif Atef**, a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
+I am a **Python SDET & AI Evaluation Engineer** focused on coding benchmark QA, test reliability, repository review, AI-generated code validation, and evidence-based engineering workflows.
 
-My work is built around one idea: software quality is not only about writing code; it is about proving that the code, tests, expected behavior, and evidence all agree.
+I work best where software behavior must be reproduced, tested, reviewed, and explained clearly. My focus is not only writing code; it is validating whether the code, tests, expected behavior, and evidence all agree.
 
 ```text
-Clone → Reproduce → Inspect → Test → Explain → Report
+Clone → Reproduce → Inspect → Test → Report
 ```
-
----
-
-## Portfolio System
 
 <p align="center">
   <img src="./assets/portfolio_operating_system.svg" alt="Portfolio operating system" width="100%" />
 </p>
 
-This profile is designed around a connected professional story: **SDET discipline**, **AI-evaluation judgment**, **coding benchmark practice**, and a flagship project that turns those habits into a real repository-quality system.
-
 ---
 
-## Reviewer Signal
+## Reviewer Signal Board
 
 <p align="center">
   <img src="./assets/reviewer_signal_board.svg" alt="Reviewer signal board" width="100%" />
 </p>
 
-| Signal | What it means in practice |
+| Signal | What it tells a reviewer |
 | --- | --- |
-| **Reproducibility** | I do not judge a result before I can reproduce the behavior. |
-| **Failure analysis** | I separate noisy symptoms from the first real failing contract. |
-| **AI-code review** | I review generated code against task logic, edge cases, and expected output. |
-| **Evidence reporting** | I prefer proof commands, artifacts, and reviewable summaries over vague claims. |
-
----
-
-## Professional Capability Grid
-
-<p align="center">
-  <img src="./assets/capability_grid.svg" alt="Professional capability grid" width="100%" />
-</p>
-
-| Area | Practical focus |
-| --- | --- |
-| **Python SDET** | pytest validation, failure reproduction, test and fix review |
-| **AI Evaluation** | model-output review, task logic, rubric alignment, source-grounded QA |
-| **Coding Benchmark QA** | hidden edge cases, expected behavior, reference checks, reproducibility risks |
-| **CI Evidence** | GitHub Actions review, command proof, JSON / Markdown artifacts |
-| **Repository Review** | clone, inspect, compare broken/fixed states, validate behavior |
-| **Quality Communication** | explain root cause, patch scope, risk, and next verification step |
+| **Python SDET** | I care about deterministic proof, contract validation, and reviewable correctness |
+| **AI Evaluation** | I review outputs against task logic, rubric intent, and evidence, not vibes |
+| **Coding Benchmark QA** | I focus on hidden tests, edge cases, and expected behavior under constraints |
+| **CI Evidence** | I turn logs, checks, and workflow signals into concrete next actions |
+| **DevS69 SDETKit** | My flagship public project shows how I think about reliability and quality systems |
 
 ---
 
@@ -72,26 +49,35 @@ It is an evidence-first Python SDET toolkit for release confidence, CI workflow 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_reliability_map.svg" alt="DevS69 SDETKit reliability roadmap" width="100%" />
+  <img src="./assets/devs69_product_roadmap.svg" alt="DevS69 SDETKit product roadmap" width="100%" />
 </p>
 
 The long-term direction is a local-first reliability platform that helps maintainers move from noisy CI or terminal output to exact evidence, diagnosis, proof, and reviewable next action.
 
 | Product layer | What it is meant to do |
 | --- | --- |
-| **Evidence Core** | collect logs, command output, CI metadata, artifacts, and proof surfaces |
-| **FailureVectorEngine** | extract the first real failure and classify the failure surface |
-| **SafetyGate** | keep unknown, broad, security, release, and dependency work review-first |
-| **TrajectoryStore / RepoMemory** | record action → response → diagnosis → proof → outcome |
-| **ReplayableBenchmarkHarness** | test no-op, oracle, and unsafe repair scenarios |
-| **ProtectedVerifier / PRReporter** | preserve proof integrity and render actionable reports |
+| **Evidence Core** | Collect logs, command output, CI metadata, artifacts, and proof surfaces |
+| **FailureVectorEngine** | Extract the first real failure and classify the failure surface |
+| **SafetyGate** | Keep unknown, broad, security, release, and dependency work review-first |
+| **TrajectoryStore / RepoMemory** | Record action → response → diagnosis → proof → outcome |
+| **ReplayableBenchmarkHarness** | Test no-op, oracle, and unsafe repair scenarios |
+| **ProtectedVerifier / PRReporter** | Preserve proof integrity and render actionable reports |
 
 <details>
-<summary><strong>Why this project matters</strong></summary>
-
-Most CI failures are noisy. A final red check often hides the actual first broken contract. DevS69 SDETKit is my long-term attempt to build a practical reliability layer that can read repository evidence, classify failures, explain risk, and guide the next safe action without pretending that unknown failures are safe to fix automatically.
-
+<summary><strong>More on DevS69 direction</strong></summary>
+<br>
+The product direction follows a clear reliability stack: start with evidence, classify the real failure, keep risky changes review-first, record the trajectory, validate candidate behavior against replayable cases, and preserve proof integrity before reporting next action.
 </details>
+
+---
+
+## Evidence Artifact Stack
+
+<p align="center">
+  <img src="./assets/evidence_artifact_stack.svg" alt="Evidence artifact stack" width="100%" />
+</p>
+
+This stack represents the practical tools and artifact forms I use most often when validating behavior and documenting quality work.
 
 ---
 
@@ -102,7 +88,7 @@ LeetCode is part of my long-term programming discipline. I use it to strengthen 
 Profile: **https://leetcode.com/u/sherif69/**
 
 <p align="center">
-  <img src="./assets/leetcode_practice_system.svg" alt="LeetCode practice system" width="100%" />
+  <img src="./assets/leetcode_practice_matrix.svg" alt="LeetCode practice matrix" width="100%" />
 </p>
 
 | Track | Purpose |
@@ -122,11 +108,14 @@ Micro-optimization last
 
 ---
 
-## Evidence Workflow
+## Working Method
 
-<p align="center">
-  <img src="./assets/evidence_workflow.svg" alt="Evidence workflow" width="100%" />
-</p>
+1. Understand the task contract.
+2. Reproduce the behavior.
+3. Inspect the implementation.
+4. Run focused validation.
+5. Compare expected vs actual behavior.
+6. Document the evidence.
 
 This method applies to SDET work, AI evaluation, coding benchmark review, repository-quality validation, and CI evidence reporting.
 
