@@ -1,0 +1,28 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="340" rx="26" fill="#0E1725"/>
+  <text x="46" y="50" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">LeetCode Practice Matrix</text>
+  <text x="46" y="78" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Structured problem-solving system that supports real engineering habits</text>
+  <g>
+    <rect x="52" y="116" width="320" height="156" rx="18" fill="#132238" stroke="#29507A"/>
+    <text x="78" y="149" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">Python / Python3</text>
+    <text x="78" y="178" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Main track</text>
+    <text x="78" y="208" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Algorithms, data structures, DP, graphs,</text>
+    <text x="78" y="229" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">heaps, binary search, design, caches, streams</text>
+  </g>
+  <g>
+    <rect x="478" y="116" width="320" height="156" rx="18" fill="#1B2135" stroke="#3F6AC8"/>
+    <text x="504" y="149" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">Pandas</text>
+    <text x="504" y="178" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Data track</text>
+    <text x="504" y="208" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Tables, logs, metrics, joins, transformations,</text>
+    <text x="504" y="229" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">reporting patterns, structured artifact thinking</text>
+  </g>
+  <g>
+    <rect x="904" y="116" width="320" height="156" rx="18" fill="#332713" stroke="#E5A433"/>
+    <text x="930" y="149" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">TypeScript</text>
+    <text x="930" y="178" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Support track</text>
+    <text x="930" y="208" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Typed APIs, classes, closures, language-specific</text>
+    <text x="930" y="229" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">practice, implementation clarity, JS/TS fluency</text>
+  </g>
+  <text x="52" y="309" fill="#D6E2EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Practice order:</text>
+  <text x="168" y="309" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Correctness → Hidden-test safety → Optimal algorithm → Memory awareness → Practical runtime → Micro-optimization</text>
+</svg>

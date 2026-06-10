@@ -1,0 +1,42 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" rx="26" fill="#0D1725"/>
+  <text x="46" y="50" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">DevS69 SDETKit Product Roadmap</text>
+  <text x="46" y="78" fill="#AFC3D6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="500">Local-first reliability platform for evidence, diagnosis, proof, and reviewable next action</text>
+  <line x1="96" y1="194" x2="1184" y2="194" stroke="#294863" stroke-width="4" stroke-linecap="round"/>
+  <g>
+    <circle cx="136" cy="194" r="16" fill="#2F80ED"/>
+    <rect x="62" y="102" width="150" height="64" rx="16" fill="#132238" stroke="#29507A"/>
+    <text x="82" y="130" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">Evidence Core</text>
+    <text x="82" y="151" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">logs, CI metadata, artifacts</text>
+  </g>
+  <g>
+    <circle cx="334" cy="194" r="16" fill="#16A6FF"/>
+    <rect x="258" y="222" width="152" height="64" rx="16" fill="#132A39" stroke="#236C93"/>
+    <text x="278" y="250" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">FailureVectorEngine</text>
+    <text x="278" y="271" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">extract first real failure</text>
+  </g>
+  <g>
+    <circle cx="532" cy="194" r="16" fill="#17C4B8"/>
+    <rect x="462" y="102" width="140" height="64" rx="16" fill="#142B31" stroke="#257D73"/>
+    <text x="482" y="130" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">SafetyGate</text>
+    <text x="482" y="151" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">review-first boundaries</text>
+  </g>
+  <g>
+    <circle cx="730" cy="194" r="16" fill="#8E63E4"/>
+    <rect x="650" y="222" width="160" height="64" rx="16" fill="#241B31" stroke="#6F50A9"/>
+    <text x="670" y="250" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">TrajectoryStore</text>
+    <text x="670" y="271" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">action → outcome memory</text>
+  </g>
+  <g>
+    <circle cx="928" cy="194" r="16" fill="#E5A433"/>
+    <rect x="842" y="102" width="172" height="64" rx="16" fill="#332713" stroke="#A67322"/>
+    <text x="862" y="130" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">Benchmark Harness</text>
+    <text x="862" y="151" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">no-op / oracle / unsafe tests</text>
+  </g>
+  <g>
+    <circle cx="1126" cy="194" r="16" fill="#F06292"/>
+    <rect x="1042" y="222" width="164" height="64" rx="16" fill="#341E2A" stroke="#B14B73"/>
+    <text x="1062" y="250" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">ProtectedVerifier</text>
+    <text x="1062" y="271" fill="#C4D8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">proof integrity + reporting</text>
+  </g>
+</svg>
