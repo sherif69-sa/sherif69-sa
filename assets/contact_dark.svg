@@ -1,0 +1,10 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="220" rx="30" fill="#0D1B2A" stroke="#29435C"/>
+  <circle cx="1080" cy="116" r="190" fill="#22D3EE" fill-opacity="0.08"/>
+  <text x="50" y="62" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">Let’s build reliable engineering systems.</text>
+  <text x="50" y="98" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="650">Open to Python SDET, AI evaluation, coding benchmark QA, and CI reliability conversations.</text>
+  <rect x="50" y="138" width="190" height="32" rx="16" fill="#11253A" stroke="#60A5FA"/><text x="66" y="159" fill="#60A5FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">GitHub: sherif69-sa</text>
+  <rect x="260" y="138" width="190" height="32" rx="16" fill="#11253A" stroke="#22D3EE"/><text x="276" y="159" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">LinkedIn: devs69</text>
+  <rect x="470" y="138" width="185" height="32" rx="16" fill="#11253A" stroke="#FBBF24"/><text x="486" y="159" fill="#FBBF24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">LeetCode: sherif69</text>
+  <rect x="675" y="138" width="290" height="32" rx="16" fill="#11253A" stroke="#A78BFA"/><text x="691" y="159" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">sherif.atef6300@gmail.com</text>
+</svg>

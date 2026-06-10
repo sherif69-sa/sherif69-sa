@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/hero_signature.svg" alt="Sherif Atef — Python SDET and AI Evaluation Engineer" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero_light.svg">
+  <img src="./assets/hero_light.svg" alt="Sherif Atef — Python SDET and AI Evaluation Engineer" width="100%">
+</picture>
 </p>
 
 <p align="center">
@@ -10,9 +14,9 @@
 
 ## Evidence-first engineering profile
 
-I build validation systems for code, CI, repositories, and AI-generated outputs.
+I build **evidence-first validation systems** for code, CI, repositories, and AI-generated outputs.
 
-My strongest work is in the gap between **what a system says happened** and **what the evidence proves happened**: reproducing failures, extracting exact signals, validating behavior, and turning noisy output into decisions a reviewer can trust.
+My work focuses on reproducing failures, extracting exact signals, validating behavior, and turning noisy engineering output into reviewable decisions.
 
 ```text
 Clone → Reproduce → Inspect → Prove → Report
@@ -20,26 +24,39 @@ Clone → Reproduce → Inspect → Prove → Report
 
 ---
 
+## What I validate
+
 <p align="center">
-  <img src="./assets/validation_surfaces.svg" alt="What I validate" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/validation_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/validation_light.svg">
+  <img src="./assets/validation_light.svg" alt="Validation surfaces" width="100%">
+</picture>
 </p>
 
-| Surface | What I validate |
+| Surface | What I look for |
 | --- | --- |
-| **Python test behavior** | pytest contracts, regression signals, edge cases, hidden-test safety |
-| **AI-generated code** | task logic, rubric alignment, unsafe assumptions, hallucinated behavior |
-| **CI and repository signals** | failing checks, owner files, artifacts, logs, proof commands |
-| **Benchmark tasks** | correctness, performance, memory, implementation clarity |
+| **Python test behavior** | correctness, hidden-test safety, regression signals, focused proof |
+| **AI-generated code** | task logic, rubric alignment, hallucinated behavior, unsafe assumptions |
+| **CI and repository state** | first failing line, failed step, owner files, exact next command |
+| **Data artifacts** | Pandas tables, structured logs, JSON/Markdown evidence reports |
 
 ---
 
+## Engineering proof surface
+
 <p align="center">
-  <img src="./assets/engineering_proof_surface.svg" alt="Engineering proof surface" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/proof_surface_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/proof_surface_light.svg">
+  <img src="./assets/proof_surface_light.svg" alt="Engineering proof surface" width="100%">
+</picture>
 </p>
 
 ```text
 failure_vector:
   check=<workflow/check>
+  command=<failed command>
   first_failing_line=<exact signal>
   failure_class=<formatter|lint|type|test|dependency|security|unknown>
   safe_fix_candidate=<yes|no>
@@ -59,38 +76,70 @@ review_decision:
 
 **DevS69 SDETKit** is my main public engineering project.
 
-It is growing into a local-first reliability platform for SDET workflows: extracting failure evidence, preserving review-first boundaries, recording diagnostic trajectories, and producing reports that help maintainers know what to do next.
+It is a local-first reliability platform direction for Python SDET workflows, CI diagnosis, failure evidence, proof artifacts, safety gates, trajectory memory, and PR-quality reporting.
 
 Repository: **https://github.com/sherif69-sa/DevS69-sdetkit**
 
 <p align="center">
-  <img src="./assets/devs69_platform_map.svg" alt="DevS69 SDETKit reliability platform map" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/devs69_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/devs69_light.svg">
+  <img src="./assets/devs69_light.svg" alt="DevS69 SDETKit reliability platform map" width="100%">
+</picture>
 </p>
 
 | Component | Product role |
 | --- | --- |
 | **FailureVectorEngine** | extracts the first real failure and turns it into structured evidence |
-| **SafetyGate** | keeps unknown, broad, security, release, and dependency work review-first |
+| **SafetyGate** | decides safe-fix eligibility and keeps unknown/risky work review-first |
 | **TrajectoryStore / RepoMemory** | records action → response → diagnosis → proof → outcome |
 | **ReplayableBenchmarkHarness** | evaluates no-op, oracle, and unsafe repair scenarios |
-| **ProtectedVerifier** | checks patch scope, proof validity, and anti-cheat boundaries |
+| **ProtectedVerifier** | independently checks patch scope, proof validity, and anti-cheat boundaries |
 | **PRReporter / PatchScorer** | renders exact failure, safety decision, proof, next action, and repair score |
 
 ---
 
-<p align="center">
-  <img src="./assets/practice_engine.svg" alt="Practice engine" width="100%" />
-</p>
+## Practice engine
 
-LeetCode is part of my long-term engineering practice system. I use it to strengthen algorithm selection, hidden-test safety, runtime awareness, memory tradeoffs, and debugging speed.
+LeetCode is part of my programming discipline. I use it to strengthen algorithmic judgment, hidden-test safety, runtime awareness, memory tradeoffs, and debugging speed.
 
 Profile: **https://leetcode.com/u/sherif69/**
 
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/practice_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/practice_light.svg">
+  <img src="./assets/practice_light.svg" alt="Programming practice engine" width="100%">
+</picture>
+</p>
+
+| Track | Purpose |
+| --- | --- |
+| **Python / Python3** | main algorithms and data-structure practice |
+| **Pandas** | dataframe, table, log, and reporting practice |
+| **TypeScript** | support track for typed APIs, closures, classes, and JS/TS-specific problems |
+
 ---
 
+## Reviewer briefing
+
 <p align="center">
-  <img src="./assets/reviewer_briefing.svg" alt="Reviewer briefing" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/reviewer_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/reviewer_light.svg">
+  <img src="./assets/reviewer_light.svg" alt="Reviewer briefing" width="100%">
+</picture>
 </p>
+
+```text
+role_fit=Python SDET / AI Evaluation / Coding Benchmark QA
+public_project=DevS69 SDETKit
+working_method=evidence-first validation
+practice_system=Python + Pandas + TypeScript
+professional_signal=proof before claims
+```
+
+---
 
 ## Core stack
 
@@ -99,6 +148,8 @@ Python · pytest · Pandas · Docker · Git · GitHub Actions
 CLI workflows · JSON evidence · Markdown reports · CI-style validation
 AI evaluation workflows · coding benchmark review · repository inspection
 ```
+
+---
 
 ## Target roles
 
@@ -113,7 +164,11 @@ AI evaluation workflows · coding benchmark review · repository inspection
 ---
 
 <p align="center">
-  <img src="./assets/contact_panel.svg" alt="Contact panel" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contact_light.svg">
+  <img src="./assets/contact_light.svg" alt="Contact panel" width="100%">
+</picture>
 </p>
 
 - LinkedIn: **https://www.linkedin.com/in/devs69/**

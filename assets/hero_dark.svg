@@ -1,0 +1,29 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1280" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1B2A"/><stop offset="1" stop-color="#122437"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="760" y1="64" x2="1210" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/><stop offset="0.55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="430" rx="34" fill="url(#hero)" stroke="#29435C"/>
+  <circle cx="1090" cy="95" r="205" fill="#60A5FA" fill-opacity="0.12"/>
+  <circle cx="1010" cy="340" r="245" fill="#22D3EE" fill-opacity="0.10"/>
+  <path d="M730 318 C850 198 940 228 1020 132 C1090 48 1170 54 1240 38" stroke="url(#arc)" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <text x="58" y="66" fill="#60A5FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="900">SHERIF ATEF</text>
+  <text x="58" y="126" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="900">Python SDET &amp; AI Evaluation Engineer</text>
+  <text x="58" y="166" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Evidence-first validation for code, CI, repositories, and AI-generated outputs.</text>
+  <text x="58" y="212" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">I reproduce failures, extract exact signals, prove behavior, and turn noisy engineering output into reviewable decisions.</text>
+  <rect x="58" y="250" width="142" height="32" rx="16" fill="#11253A" stroke="#60A5FA"/><text x="74" y="271" fill="#60A5FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Python SDET</text>
+  <rect x="216" y="250" width="150" height="32" rx="16" fill="#11253A" stroke="#22D3EE"/><text x="232" y="271" fill="#22D3EE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">AI Evaluation</text>
+  <rect x="382" y="250" width="188" height="32" rx="16" fill="#11253A" stroke="#FBBF24"/><text x="398" y="271" fill="#FBBF24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Coding Benchmark QA</text>
+  <rect x="586" y="250" width="162" height="32" rx="16" fill="#11253A" stroke="#A78BFA"/><text x="602" y="271" fill="#A78BFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">CI Evidence</text>
+  <rect x="58" y="318" width="555" height="58" rx="20" fill="#122437" stroke="#29435C"/>
+  <text x="84" y="354" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="850">Clone → Reproduce → Inspect → Prove → Report</text>
+  <rect x="805" y="120" width="350" height="174" rx="24" fill="#0D1B2A" stroke="#29435C"/>
+  <text x="834" y="158" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="850">Current flagship</text>
+  <text x="834" y="193" fill="#60A5FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="900">DevS69 SDETKit</text>
+  <text x="834" y="225" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">local-first reliability platform</text>
+  <text x="834" y="254" fill="#8FA3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750">FailureVectorEngine → SafetyGate → PRReporter</text>
+</svg>
