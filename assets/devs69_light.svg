@@ -1,0 +1,30 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="330" rx="30" fill="#FFFFFF" stroke="#CBD8E5"/>
+<circle cx="1120" cy="62" r="160" fill="#2563EB" fill-opacity="0.07"/>
+<text x="44" y="56" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900">DevS69 SDETKit — reliability platform map</text>
+<text x="44" y="86" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Local-first platform contracts before cloud, queue, or dashboard complexity.</text>
+<circle cx="80" cy="180" r="15" fill="#2563EB"/>
+<line x1="98" y1="180" x2="242" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="42" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">FailureVector</text>
+<text x="42" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">extract</text>
+<circle cx="270" cy="180" r="15" fill="#0891B2"/>
+<line x1="288" y1="180" x2="432" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="232" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">SafetyGate</text>
+<text x="232" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">decide</text>
+<circle cx="460" cy="180" r="15" fill="#D97706"/>
+<line x1="478" y1="180" x2="622" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="422" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">Trajectory</text>
+<text x="422" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">remember</text>
+<circle cx="650" cy="180" r="15" fill="#7C3AED"/>
+<line x1="668" y1="180" x2="812" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="612" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">Benchmark</text>
+<text x="612" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">replay</text>
+<circle cx="840" cy="180" r="15" fill="#059669"/>
+<line x1="858" y1="180" x2="1002" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="802" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">Verifier</text>
+<text x="802" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">protect</text>
+<circle cx="1030" cy="180" r="15" fill="#2563EB"/>
+<line x1="1048" y1="180" x2="1192" y2="180" stroke="#CBD8E5" stroke-width="3"/>
+<text x="992" y="232" fill="#102235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="850">Reporter</text>
+<text x="992" y="256" fill="#516273" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">explain</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="330" rx="30" fill="#0D1B2A" stroke="#29435C"/>
+<circle cx="1120" cy="62" r="160" fill="#60A5FA" fill-opacity="0.07"/>
+<text x="44" y="56" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900">What I validate</text>
+<text x="44" y="86" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Four surfaces, one operating style: evidence before claims.</text>
+<rect x="44" y="126" width="280" height="112" rx="22" fill="#122437" stroke="#60A5FA"/>
+<text x="66" y="162" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="850">Python test behavior</text>
+<text x="66" y="194" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">pytest, hidden tests, regressions</text>
+<rect x="346" y="126" width="280" height="112" rx="22" fill="#122437" stroke="#22D3EE"/>
+<text x="368" y="162" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="850">AI code output</text>
+<text x="368" y="194" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">rubrics, task logic, safety</text>
+<rect x="648" y="126" width="280" height="112" rx="22" fill="#122437" stroke="#FBBF24"/>
+<text x="670" y="162" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="850">CI and repo state</text>
+<text x="670" y="194" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">logs, checks, owner files</text>
+<rect x="950" y="126" width="280" height="112" rx="22" fill="#122437" stroke="#A78BFA"/>
+<text x="972" y="162" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="850">Data artifacts</text>
+<text x="972" y="194" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Pandas, JSON, Markdown evidence</text>
+</svg>

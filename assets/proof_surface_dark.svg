@@ -1,0 +1,23 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="330" rx="30" fill="#0D1B2A" stroke="#29435C"/>
+<circle cx="1120" cy="62" r="160" fill="#60A5FA" fill-opacity="0.07"/>
+<text x="44" y="56" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="900">Engineering proof surface</text>
+<text x="44" y="86" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">The profile is built around repeatable proof, not decorative claims.</text>
+<rect x="44" y="118" width="545" height="168" rx="22" fill="#122437" stroke="#29435C"/>
+<text x="72" y="154" fill="#60A5FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="900">proof_command</text>
+<text x="72" y="188" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">python -m pytest -q tests/test_failure_vector_extraction.py -o addopts=</text>
+<text x="72" y="222" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">python -m pre_commit run -a</text>
+<text x="72" y="256" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">result: focused proof + quality proof before any success claim</text>
+<rect x="630" y="118" width="280" height="70" rx="18" fill="#122437" stroke="#60A5FA"/>
+<text x="650" y="147" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="850">FailureVector</text>
+<text x="650" y="170" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">first real failure</text>
+<rect x="936" y="118" width="280" height="70" rx="18" fill="#122437" stroke="#22D3EE"/>
+<text x="956" y="147" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="850">SafetyGate</text>
+<text x="956" y="170" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">review-first boundary</text>
+<rect x="630" y="210" width="280" height="70" rx="18" fill="#122437" stroke="#FBBF24"/>
+<text x="650" y="239" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="850">TrajectoryStore</text>
+<text x="650" y="262" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">action → proof → outcome</text>
+<rect x="936" y="210" width="280" height="70" rx="18" fill="#122437" stroke="#A78BFA"/>
+<text x="956" y="239" fill="#EEF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="850">PRReporter</text>
+<text x="956" y="262" fill="#B7C7D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">human-readable decision</text>
+</svg>
