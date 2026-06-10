@@ -1,31 +1,37 @@
-<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#050B14"/><stop offset="0.55" stop-color="#0B1B2F"/><stop offset="1" stop-color="#133A55"/></linearGradient>
-  <linearGradient id="accent" x1="70" y1="330" x2="1180" y2="40" gradientUnits="userSpaceOnUse"><stop stop-color="#2F80ED"/><stop offset="0.52" stop-color="#17C4B8"/><stop offset="1" stop-color="#E5A433"/></linearGradient>
-  <filter id="soft"><feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000" flood-opacity="0.35"/></filter>
-</defs>
-<rect width="1280" height="460" rx="34" fill="url(#bg)"/>
-<circle cx="1092" cy="86" r="210" fill="#2F80ED" fill-opacity="0.09"/>
-<circle cx="1008" cy="390" r="260" fill="#17C4B8" fill-opacity="0.07"/>
-<path d="M66 345 C250 245 350 392 530 260 C712 126 820 190 976 94 C1078 31 1164 46 1216 26" stroke="url(#accent)" stroke-width="4" stroke-opacity="0.68"/>
-<rect x="54" y="52" width="196" height="36" rx="18" fill="#0B1A2C" stroke="#31597A"/>
-<text x="78" y="75" fill="#DDEBFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="900">SHERIF ATEF</text>
-<text x="54" y="148" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="900">Evidence-first validation</text>
-<text x="54" y="198" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="850">for code, CI, repositories, and AI outputs</text>
-<text x="56" y="242" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="650">Python SDET · AI Evaluation · Coding Benchmark QA · DevS69 SDETKit</text>
-<rect x="56" y="284" width="178" height="34" rx="17" fill="#0A1A2C" stroke="#2F80ED"/><text x="74" y="306" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Failure reproduction</text>
-<rect x="252" y="284" width="132" height="34" rx="17" fill="#0A1A2C" stroke="#17C4B8"/><text x="270" y="306" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">CI evidence</text>
-<rect x="402" y="284" width="150" height="34" rx="17" fill="#0A1A2C" stroke="#E5A433"/><text x="420" y="306" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Benchmark QA</text>
-<rect x="570" y="284" width="190" height="34" rx="17" fill="#0A1A2C" stroke="#8E63E4"/><text x="588" y="306" fill="#EAF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800">Review-first safety</text>
-<g filter="url(#soft)">
-  <rect x="56" y="340" width="650" height="72" rx="22" fill="#0B192A" stroke="#2C5277"/>
-  <text x="84" y="382" fill="#88D8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">Clone → Reproduce → Inspect → Prove → Report</text>
-</g>
-<rect x="802" y="96" width="394" height="256" rx="28" fill="#0A1728" stroke="#2E506E"/>
-<text x="836" y="138" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850">Profile promise</text>
-<text x="836" y="178" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">I turn noisy engineering signals into</text>
-<text x="836" y="205" fill="#C8D8E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">clear diagnosis, proof, and next action.</text>
-<line x1="836" y1="232" x2="1160" y2="232" stroke="#294862"/>
-<text x="836" y="268" fill="#9FB6CD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Main public project:</text>
-<text x="836" y="298" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="900">DevS69 SDETKit</text>
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FBFE"/>
+      <stop offset="0.55" stop-color="#EEF6FF"/>
+      <stop offset="1" stop-color="#EAFDF9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="340" x2="1160" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#C78A16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="430" rx="30" fill="url(#bg)"/>
+  <circle cx="1110" cy="92" r="170" fill="#2563EB" fill-opacity="0.09"/>
+  <circle cx="1050" cy="365" r="230" fill="#0891B2" fill-opacity="0.08"/>
+  <path d="M76 347 C260 260 382 390 550 275 C710 166 805 204 952 112 C1074 36 1158 52 1220 28" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-opacity="0.32"/>
+  <text x="70" y="76" fill="#2563EB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" text-anchor="start">SHERIF ATEF</text>
+  <text x="70" y="140" fill="#0B1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="860" text-anchor="start">Python SDET &amp; AI Evaluation Engineer</text>
+  <text x="70" y="185" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="650" text-anchor="start">Evidence-first validation for code, CI, repositories, and AI-generated outputs.</text>
+  <text x="70" y="232" fill="#25364A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="start">I reproduce failures, extract exact signals, prove behavior, and turn noisy engineering output into reviewable decisions.</text>
+  <g>
+    <rect x="70" y="282" width="166" height="44" rx="22" fill="#EAF2FF" stroke="#BFD3FF" stroke-width="1"/>
+    <text x="153" y="310" fill="#2563EB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" text-anchor="middle">Python SDET</text>
+    <rect x="252" y="282" width="168" height="44" rx="22" fill="#EAFDFC" stroke="#B5ECE8" stroke-width="1"/>
+    <text x="336" y="310" fill="#0891B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" text-anchor="middle">AI Evaluation</text>
+    <rect x="436" y="282" width="196" height="44" rx="22" fill="#FFF6E5" stroke="#F1D29C" stroke-width="1"/>
+    <text x="534" y="310" fill="#C78A16" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" text-anchor="middle">Coding Benchmark QA</text>
+    <rect x="648" y="282" width="182" height="44" rx="22" fill="#F0EAFE" stroke="#D0B9FB" stroke-width="1"/>
+    <text x="739" y="310" fill="#7C3AED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" text-anchor="middle">CI Evidence</text>
+  </g>
+  <g>
+    <rect x="898" y="252" width="270" height="94" rx="22" fill="#0B1220" stroke="#0B1220" stroke-width="1"/>
+    <text x="930" y="288" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" text-anchor="start">Operating loop</text>
+    <text x="930" y="318" fill="#D9E7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650" text-anchor="start">Clone → Reproduce → Inspect → Prove → Report</text>
+  </g>
 </svg>

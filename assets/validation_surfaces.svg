@@ -1,0 +1,19 @@
+<svg width="1280" height="310" viewBox="0 0 1280 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="310" rx="30" fill="#F7FAFC"/>
+  <text x="52" y="58" fill="#0B1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="860" text-anchor="start">What I Validate</text>
+  <text x="52" y="88" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start">A compact map of the surfaces I can review, reproduce, and turn into evidence.</text>
+  <g>
+    <rect x="52" y="128" width="270" height="104" rx="22" fill="#FFFFFF" stroke="#BFD3FF" stroke-width="1"/>
+    <text x="78" y="165" fill="#2563EB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" text-anchor="start">Python test behavior</text>
+    <text x="78" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">pytest · contracts · regressions</text>
+    <rect x="352" y="128" width="270" height="104" rx="22" fill="#FFFFFF" stroke="#B5ECE8" stroke-width="1"/>
+    <text x="378" y="165" fill="#0891B2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" text-anchor="start">AI-generated output</text>
+    <text x="378" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">rubrics · task logic · edge cases</text>
+    <rect x="652" y="128" width="270" height="104" rx="22" fill="#FFFFFF" stroke="#F1D29C" stroke-width="1"/>
+    <text x="678" y="165" fill="#C78A16" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" text-anchor="start">CI and repository signals</text>
+    <text x="678" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">logs · checks · artifacts · scope</text>
+    <rect x="952" y="128" width="276" height="104" rx="22" fill="#FFFFFF" stroke="#CBB7F8" stroke-width="1"/>
+    <text x="978" y="165" fill="#7C3AED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" text-anchor="start">Benchmark tasks</text>
+    <text x="978" y="194" fill="#405166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" text-anchor="start">hidden tests · performance · memory</text>
+  </g>
+</svg>
